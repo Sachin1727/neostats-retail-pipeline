@@ -1,0 +1,1961 @@
+customer_id,Recency,Frequency,Monetary,R_Score,F_Score,M_Score,RFM_Score,Segment
+1,239,7,384660.0,4,4,2,10,Champions
+2,314,9,2707000.0,2,4,4,10,Champions
+3,488,2,225000.0,1,1,1,3,At Risk
+4,477,5,647225.0,1,3,3,7,Loyal Customers
+5,497,4,326650.0,1,2,2,5,Potential Loyalists
+6,409,4,711750.0,1,2,3,6,Potential Loyalists
+7,301,3,483400.0,2,1,3,6,Potential Loyalists
+8,304,4,306570.0,2,2,2,6,Potential Loyalists
+9,94,3,300250.0,4,1,2,7,Loyal Customers
+10,125,5,1045750.0,4,3,4,11,Champions
+11,250,6,863500.0,4,4,4,12,Champions
+12,665,1,6000.0,1,1,1,3,At Risk
+13,359,3,834250.0,1,1,3,5,Potential Loyalists
+14,337,5,929660.0,2,3,4,9,Loyal Customers
+15,264,6,2260000.0,3,4,4,11,Champions
+16,125,5,1064870.0,4,3,4,11,Champions
+17,239,9,1015600.0,4,4,4,12,Champions
+18,283,7,588900.0,3,4,3,10,Champions
+19,3,3,579750.0,4,1,3,8,Loyal Customers
+20,338,4,360925.0,2,2,2,6,Potential Loyalists
+21,327,2,342000.0,2,1,2,5,Potential Loyalists
+22,301,8,1295650.0,2,4,4,10,Champions
+23,238,1,1560.0,4,1,1,6,Potential Loyalists
+24,338,3,176875.0,2,1,1,4,At Risk
+25,558,2,299190.0,1,1,2,4,At Risk
+26,433,1,120000.0,1,1,1,3,At Risk
+27,311,5,1224250.0,2,3,4,9,Loyal Customers
+28,319,2,51350.0,2,1,1,4,At Risk
+29,416,3,184510.0,1,1,1,3,At Risk
+30,282,3,514250.0,3,1,3,7,Loyal Customers
+31,255,3,736250.0,3,1,3,7,Loyal Customers
+32,281,2,867500.0,3,1,4,8,Loyal Customers
+33,293,4,550000.0,2,2,3,7,Loyal Customers
+34,185,1,5600.0,4,1,1,6,Potential Loyalists
+35,253,3,242000.0,3,1,2,6,Potential Loyalists
+36,234,6,1121920.0,4,4,4,12,Champions
+37,123,8,1465250.0,4,4,4,12,Champions
+38,246,5,436440.0,4,3,2,9,Loyal Customers
+39,250,4,325500.0,4,2,2,8,Loyal Customers
+40,157,6,684300.0,4,4,3,11,Champions
+41,323,3,403500.0,2,1,2,5,Potential Loyalists
+42,233,4,184080.0,4,2,1,7,Loyal Customers
+43,249,7,1084555.0,4,4,4,12,Champions
+44,270,3,190400.0,3,1,1,5,Potential Loyalists
+45,313,7,534440.0,2,4,3,9,Loyal Customers
+46,332,3,255510.0,2,1,2,5,Potential Loyalists
+47,252,1,104000.0,3,1,1,5,Potential Loyalists
+48,415,1,12000.0,1,1,1,3,At Risk
+49,422,2,336000.0,1,1,2,4,At Risk
+50,508,4,466750.0,1,2,3,6,Potential Loyalists
+51,382,4,343460.0,1,2,2,5,Potential Loyalists
+52,126,6,690950.0,4,4,3,11,Champions
+53,235,8,1003495.0,4,4,4,12,Champions
+54,281,6,648840.0,3,4,3,10,Champions
+55,243,2,169800.0,4,1,1,6,Potential Loyalists
+56,233,4,476550.0,4,2,3,9,Loyal Customers
+57,369,3,619250.0,1,1,3,5,Potential Loyalists
+58,267,4,251210.0,3,2,2,7,Loyal Customers
+59,258,3,1374500.0,3,1,4,8,Loyal Customers
+60,509,3,147000.0,1,1,1,3,At Risk
+61,306,1,910.0,2,1,1,4,At Risk
+62,283,5,250450.0,3,3,2,8,Loyal Customers
+63,264,4,1071640.0,3,2,4,9,Loyal Customers
+64,92,4,1176400.0,4,2,4,10,Champions
+65,288,3,364250.0,3,1,2,6,Potential Loyalists
+66,339,5,620000.0,2,3,3,8,Loyal Customers
+67,303,5,404190.0,2,3,2,7,Loyal Customers
+68,384,5,1429500.0,1,3,4,8,Loyal Customers
+69,471,2,222000.0,1,1,1,3,At Risk
+70,276,4,633250.0,3,2,3,8,Loyal Customers
+71,289,5,432700.0,3,3,2,8,Loyal Customers
+72,284,4,666000.0,3,2,3,8,Loyal Customers
+73,387,5,675080.0,1,3,3,7,Loyal Customers
+74,358,4,293750.0,1,2,2,5,Potential Loyalists
+75,567,2,242000.0,1,1,2,4,At Risk
+76,236,4,444000.0,4,2,2,8,Loyal Customers
+77,270,5,501550.0,3,3,3,9,Loyal Customers
+78,397,1,120000.0,1,1,1,3,At Risk
+79,271,4,73410.0,3,2,1,6,Potential Loyalists
+80,317,1,1560.0,2,1,1,4,At Risk
+81,301,6,844660.0,2,4,3,9,Loyal Customers
+82,186,4,367500.0,4,2,2,8,Loyal Customers
+83,594,1,200000.0,1,1,1,3,At Risk
+84,245,5,705750.0,4,3,3,10,Champions
+85,358,1,180000.0,1,1,1,3,At Risk
+86,307,4,423750.0,2,2,2,6,Potential Loyalists
+87,357,7,561780.0,1,4,3,8,Loyal Customers
+88,373,4,811400.0,1,2,3,6,Potential Loyalists
+89,246,3,266500.0,4,1,2,7,Loyal Customers
+90,589,2,248000.0,1,1,2,4,At Risk
+91,64,6,1184270.0,4,4,4,12,Champions
+92,506,3,952455.0,1,1,4,6,Potential Loyalists
+93,314,5,520600.0,2,3,3,8,Loyal Customers
+95,284,4,870000.0,3,2,4,9,Loyal Customers
+96,581,1,108000.0,1,1,1,3,At Risk
+97,267,6,1518750.0,3,4,4,11,Champions
+98,286,4,488350.0,3,2,3,8,Loyal Customers
+99,262,2,42000.0,3,1,1,5,Potential Loyalists
+100,233,8,1105750.0,4,4,4,12,Champions
+101,409,2,754750.0,1,1,3,5,Potential Loyalists
+102,369,5,358250.0,1,3,2,6,Potential Loyalists
+103,126,4,803000.0,4,2,3,9,Loyal Customers
+104,234,15,1205620.0,4,4,4,12,Champions
+105,450,1,27200.0,1,1,1,3,At Risk
+106,284,3,319500.0,3,1,2,6,Potential Loyalists
+107,242,4,1306750.0,4,2,4,10,Champions
+108,462,3,1158000.0,1,1,4,6,Potential Loyalists
+109,269,7,945600.0,3,4,4,11,Champions
+110,319,3,207950.0,2,1,1,4,At Risk
+111,368,4,416250.0,1,2,2,5,Potential Loyalists
+112,273,4,206530.0,3,2,1,6,Potential Loyalists
+113,256,4,993680.0,3,2,4,9,Loyal Customers
+114,440,2,93000.0,1,1,1,3,At Risk
+115,256,3,331500.0,3,1,2,6,Potential Loyalists
+116,345,4,708250.0,2,2,3,7,Loyal Customers
+117,284,3,591500.0,3,1,3,7,Loyal Customers
+118,426,2,254500.0,1,1,2,4,At Risk
+119,32,6,859200.0,4,4,4,12,Champions
+120,281,5,690875.0,3,3,3,9,Loyal Customers
+121,286,4,714500.0,3,2,3,8,Loyal Customers
+122,288,3,139225.0,3,1,1,5,Potential Loyalists
+123,424,6,1170750.0,1,4,4,9,Loyal Customers
+124,288,6,599630.0,3,4,3,10,Champions
+126,414,2,215000.0,1,1,1,3,At Risk
+127,32,4,463250.0,4,2,3,9,Loyal Customers
+128,305,3,124800.0,2,1,1,4,At Risk
+129,250,6,915335.0,4,4,4,12,Champions
+130,298,5,1584000.0,2,3,4,9,Loyal Customers
+131,251,8,1541520.0,4,4,4,12,Champions
+132,347,2,254500.0,2,1,2,5,Potential Loyalists
+133,337,3,678000.0,2,1,3,6,Potential Loyalists
+134,480,3,467500.0,1,1,3,5,Potential Loyalists
+135,400,5,398565.0,1,3,2,6,Potential Loyalists
+136,315,2,108000.0,2,1,1,4,At Risk
+137,422,4,333500.0,1,2,2,5,Potential Loyalists
+138,249,3,55190.0,4,1,1,6,Potential Loyalists
+139,263,7,1359750.0,3,4,4,11,Champions
+140,239,3,175000.0,4,1,1,6,Potential Loyalists
+141,449,4,333750.0,1,2,2,5,Potential Loyalists
+142,275,7,1131500.0,3,4,4,11,Champions
+143,367,3,450500.0,1,1,2,4,At Risk
+144,124,7,1556450.0,4,4,4,12,Champions
+145,247,5,1349160.0,4,3,4,11,Champions
+146,353,3,124800.0,2,1,1,4,At Risk
+147,265,1,600000.0,3,1,3,7,Loyal Customers
+148,426,3,806250.0,1,1,3,5,Potential Loyalists
+149,235,5,310315.0,4,3,2,9,Loyal Customers
+150,156,7,748600.0,4,4,3,11,Champions
+151,358,2,129225.0,1,1,1,3,At Risk
+152,341,5,541650.0,2,3,3,8,Loyal Customers
+153,253,7,388140.0,3,4,2,9,Loyal Customers
+154,263,5,2225200.0,3,3,4,10,Champions
+155,185,4,619175.0,4,2,3,9,Loyal Customers
+156,322,5,454500.0,2,3,2,7,Loyal Customers
+157,453,1,7200.0,1,1,1,3,At Risk
+158,249,5,366500.0,4,3,2,9,Loyal Customers
+159,63,4,437000.0,4,2,2,8,Loyal Customers
+160,440,2,214400.0,1,1,1,3,At Risk
+161,266,3,434975.0,3,1,2,6,Potential Loyalists
+162,331,4,1186950.0,2,2,4,8,Loyal Customers
+163,319,4,247780.0,2,2,2,6,Potential Loyalists
+164,339,4,295200.0,2,2,2,6,Potential Loyalists
+165,245,6,609150.0,4,4,3,11,Champions
+166,262,2,41120.0,3,1,1,5,Potential Loyalists
+167,263,4,519500.0,3,2,3,8,Loyal Customers
+168,269,4,567500.0,3,2,3,8,Loyal Customers
+169,1,4,347300.0,4,2,2,8,Loyal Customers
+170,526,2,152910.0,1,1,1,3,At Risk
+171,307,3,190500.0,2,1,1,4,At Risk
+172,218,5,926725.0,4,3,4,11,Champions
+173,340,6,1399500.0,2,4,4,10,Champions
+174,261,4,384175.0,3,2,2,7,Loyal Customers
+175,554,1,48750.0,1,1,1,3,At Risk
+176,256,5,1487120.0,3,3,4,10,Champions
+177,123,5,539060.0,4,3,3,10,Champions
+178,320,2,241750.0,2,1,2,5,Potential Loyalists
+179,307,1,128000.0,2,1,1,4,At Risk
+180,246,4,341525.0,4,2,2,8,Loyal Customers
+181,245,8,2141000.0,4,4,4,12,Champions
+182,34,7,1143200.0,4,4,4,12,Champions
+183,257,3,340100.0,3,1,2,6,Potential Loyalists
+184,321,3,348700.0,2,1,2,5,Potential Loyalists
+185,334,6,613940.0,2,4,3,9,Loyal Customers
+186,241,8,1495320.0,4,4,4,12,Champions
+187,320,4,414850.0,2,2,2,6,Potential Loyalists
+188,245,5,1005500.0,4,3,4,11,Champions
+189,311,4,588850.0,2,2,3,7,Loyal Customers
+190,269,4,215650.0,3,2,1,6,Potential Loyalists
+191,315,3,809000.0,2,1,3,6,Potential Loyalists
+192,248,4,1026950.0,4,2,4,10,Champions
+193,260,4,430250.0,3,2,2,7,Loyal Customers
+194,332,3,231560.0,2,1,1,4,At Risk
+195,273,2,158540.0,3,1,1,5,Potential Loyalists
+196,244,4,1179200.0,4,2,4,10,Champions
+197,291,6,992125.0,2,4,4,10,Champions
+198,4,5,858700.0,4,3,4,11,Champions
+199,314,5,1276750.0,2,3,4,9,Loyal Customers
+200,372,4,799000.0,1,2,3,6,Potential Loyalists
+201,511,2,247500.0,1,1,2,4,At Risk
+202,123,8,1805035.0,4,4,4,12,Champions
+203,264,4,441375.0,3,2,2,7,Loyal Customers
+204,234,4,425535.0,4,2,2,8,Loyal Customers
+205,92,4,352500.0,4,2,2,8,Loyal Customers
+206,305,3,202160.0,2,1,1,4,At Risk
+207,249,8,1609570.0,4,4,4,12,Champions
+208,123,5,1072000.0,4,3,4,11,Champions
+209,282,6,1098640.0,3,4,4,11,Champions
+210,347,1,67500.0,2,1,1,4,At Risk
+211,412,2,156000.0,1,1,1,3,At Risk
+212,33,3,601550.0,4,1,3,8,Loyal Customers
+213,386,3,42120.0,1,2,1,4,At Risk
+214,278,2,1222000.0,3,1,4,8,Loyal Customers
+215,187,8,910290.0,4,4,4,12,Champions
+216,239,4,1045600.0,4,2,4,10,Champions
+217,239,8,1153160.0,4,4,4,12,Champions
+218,377,2,121750.0,1,1,1,3,At Risk
+219,233,5,388140.0,4,3,2,9,Loyal Customers
+220,1,6,437200.0,4,4,2,10,Champions
+221,283,4,450220.0,3,2,2,7,Loyal Customers
+222,262,5,494250.0,3,3,3,9,Loyal Customers
+223,306,3,167250.0,2,2,1,5,Potential Loyalists
+224,288,4,1248375.0,3,2,4,9,Loyal Customers
+225,450,3,703675.0,1,2,3,6,Potential Loyalists
+226,348,3,252875.0,2,2,2,6,Potential Loyalists
+227,377,3,613500.0,1,2,3,6,Potential Loyalists
+228,590,2,367000.0,1,1,2,4,At Risk
+229,298,3,693000.0,2,2,3,7,Loyal Customers
+230,2,6,821000.0,4,4,3,11,Champions
+231,293,6,2350800.0,2,4,4,10,Champions
+232,235,4,424750.0,4,2,2,8,Loyal Customers
+233,296,1,42000.0,2,1,1,4,At Risk
+234,369,2,133950.0,1,1,1,3,At Risk
+235,281,2,121210.0,3,1,1,5,Potential Loyalists
+236,156,2,130900.0,4,1,1,6,Potential Loyalists
+237,250,6,709750.0,4,4,3,11,Champions
+238,455,3,266425.0,1,2,2,5,Potential Loyalists
+239,291,7,1129500.0,2,4,4,10,Champions
+240,254,5,600250.0,3,3,3,9,Loyal Customers
+241,284,4,1193535.0,3,2,4,9,Loyal Customers
+242,256,4,397650.0,3,2,2,7,Loyal Customers
+243,293,4,608250.0,2,2,3,7,Loyal Customers
+244,62,4,845670.0,4,2,3,9,Loyal Customers
+245,307,2,183500.0,2,1,1,4,At Risk
+246,324,2,803315.0,2,1,3,6,Potential Loyalists
+247,332,6,1301000.0,2,4,4,10,Champions
+248,247,3,715750.0,4,2,3,9,Loyal Customers
+249,292,3,340000.0,2,2,2,6,Potential Loyalists
+250,390,5,998250.0,1,3,4,8,Loyal Customers
+251,259,1,40500.0,3,1,1,5,Potential Loyalists
+252,126,5,578800.0,4,3,3,10,Champions
+253,313,6,1005700.0,2,4,4,10,Champions
+254,366,6,995250.0,1,4,4,9,Loyal Customers
+255,351,2,328500.0,2,1,2,5,Potential Loyalists
+256,215,8,944760.0,4,4,4,12,Champions
+257,405,4,864500.0,1,2,4,7,Loyal Customers
+258,254,8,960030.0,3,4,4,11,Champions
+259,255,5,647250.0,3,3,3,9,Loyal Customers
+260,316,6,2172700.0,2,4,4,10,Champions
+261,254,6,505560.0,3,4,3,10,Champions
+262,278,4,584750.0,3,2,3,8,Loyal Customers
+263,280,5,641750.0,3,3,3,9,Loyal Customers
+264,34,8,686650.0,4,4,3,11,Champions
+265,284,2,144000.0,3,1,1,5,Potential Loyalists
+266,318,2,185250.0,2,1,1,4,At Risk
+267,354,4,661500.0,2,2,3,7,Loyal Customers
+268,63,3,186045.0,4,2,1,7,Loyal Customers
+269,284,5,455150.0,3,3,2,8,Loyal Customers
+270,252,3,186250.0,3,2,1,6,Potential Loyalists
+271,280,3,758500.0,3,2,3,8,Loyal Customers
+272,249,3,259250.0,4,2,2,8,Loyal Customers
+273,1,2,995000.0,4,1,4,9,Loyal Customers
+274,234,7,542750.0,4,4,3,11,Champions
+275,304,4,742750.0,2,2,3,7,Loyal Customers
+276,336,3,337705.0,2,2,2,6,Potential Loyalists
+277,349,3,774000.0,2,2,3,7,Loyal Customers
+278,259,3,244750.0,3,2,2,7,Loyal Customers
+279,306,5,558300.0,2,3,3,8,Loyal Customers
+280,296,5,669200.0,2,3,3,8,Loyal Customers
+281,240,3,1119200.0,4,2,4,10,Champions
+282,242,5,550250.0,4,3,3,10,Champions
+283,320,5,557060.0,2,3,3,8,Loyal Customers
+284,155,5,1344440.0,4,3,4,11,Champions
+285,93,7,987500.0,4,4,4,12,Champions
+286,327,3,99120.0,2,2,1,5,Potential Loyalists
+287,253,3,119950.0,3,2,1,6,Potential Loyalists
+288,186,9,1123750.0,4,4,4,12,Champions
+289,467,2,318000.0,1,1,2,4,At Risk
+290,315,6,675830.0,2,4,3,9,Loyal Customers
+291,34,5,597500.0,4,3,3,10,Champions
+292,442,3,639000.0,1,2,3,6,Potential Loyalists
+293,34,5,695250.0,4,3,3,10,Champions
+294,248,4,1097500.0,4,2,4,10,Champions
+295,359,3,191850.0,1,2,1,4,At Risk
+296,247,7,736150.0,4,4,3,11,Champions
+297,313,8,2014970.0,2,4,4,10,Champions
+298,239,8,1482500.0,4,4,4,12,Champions
+299,328,4,555750.0,2,2,3,7,Loyal Customers
+300,154,6,515600.0,4,4,3,11,Champions
+301,321,4,204750.0,2,2,1,5,Potential Loyalists
+302,272,5,1569000.0,3,3,4,10,Champions
+303,447,5,1135000.0,1,3,4,8,Loyal Customers
+304,374,3,546750.0,1,2,3,6,Potential Loyalists
+305,333,7,806250.0,2,4,3,9,Loyal Customers
+306,380,2,114250.0,1,1,1,3,At Risk
+307,245,7,316540.0,4,4,2,10,Champions
+308,246,3,67320.0,4,2,1,7,Loyal Customers
+309,448,3,1322000.0,1,2,4,7,Loyal Customers
+310,340,3,537800.0,2,2,3,7,Loyal Customers
+311,402,5,724340.0,1,3,3,7,Loyal Customers
+312,248,4,1260250.0,4,2,4,10,Champions
+313,1,7,696400.0,4,4,3,11,Champions
+314,457,2,315250.0,1,1,2,4,At Risk
+316,290,4,559750.0,3,2,3,8,Loyal Customers
+318,326,2,371250.0,2,1,2,5,Potential Loyalists
+319,466,1,24000.0,1,1,1,3,At Risk
+320,331,6,1904000.0,2,4,4,10,Champions
+321,424,2,301500.0,1,1,2,4,At Risk
+322,267,4,683750.0,3,2,3,8,Loyal Customers
+323,245,6,1162250.0,4,4,4,12,Champions
+324,326,1,332500.0,2,1,2,5,Potential Loyalists
+325,289,3,401000.0,3,2,2,7,Loyal Customers
+326,306,3,320010.0,2,2,2,6,Potential Loyalists
+327,402,1,308750.0,1,1,2,4,At Risk
+328,398,1,108000.0,1,1,1,3,At Risk
+329,311,5,411950.0,2,3,2,7,Loyal Customers
+330,425,3,1111475.0,1,2,4,7,Loyal Customers
+331,602,1,114750.0,1,1,1,3,At Risk
+332,398,1,108000.0,1,1,1,3,At Risk
+333,409,1,126000.0,1,1,1,3,At Risk
+334,124,4,329500.0,4,2,2,8,Loyal Customers
+335,357,4,899100.0,1,2,4,7,Loyal Customers
+336,341,4,1152680.0,2,2,4,8,Loyal Customers
+337,235,3,385330.0,4,2,2,8,Loyal Customers
+338,277,10,1112735.0,3,4,4,11,Champions
+339,254,4,586300.0,3,2,3,8,Loyal Customers
+340,184,4,489440.0,4,2,3,9,Loyal Customers
+341,294,4,328750.0,2,2,2,6,Potential Loyalists
+342,239,4,128050.0,4,2,1,7,Loyal Customers
+343,263,6,712000.0,3,4,3,10,Champions
+344,555,2,228500.0,1,1,1,3,At Risk
+345,357,4,220830.0,1,2,1,4,At Risk
+346,438,4,294750.0,1,2,2,5,Potential Loyalists
+347,233,5,674600.0,4,3,3,10,Champions
+348,31,7,1505050.0,4,4,4,12,Champions
+349,233,5,333425.0,4,3,2,9,Loyal Customers
+350,342,4,104640.0,2,2,1,5,Potential Loyalists
+351,423,3,497750.0,1,2,3,6,Potential Loyalists
+352,259,5,664770.0,3,3,3,9,Loyal Customers
+353,278,4,203900.0,3,2,1,6,Potential Loyalists
+354,472,1,280000.0,1,1,2,4,At Risk
+355,301,2,17625.0,2,1,1,4,At Risk
+356,297,5,359460.0,2,3,2,7,Loyal Customers
+357,300,3,389000.0,2,2,2,6,Potential Loyalists
+358,590,1,90000.0,1,1,1,3,At Risk
+359,251,5,290750.0,4,3,2,9,Loyal Customers
+360,358,3,668800.0,1,2,3,6,Potential Loyalists
+361,240,4,507500.0,4,2,3,9,Loyal Customers
+362,267,9,2750000.0,3,4,4,11,Champions
+363,256,7,818830.0,3,4,3,10,Champions
+364,311,7,716500.0,2,4,3,9,Loyal Customers
+365,62,1,45000.0,4,1,1,6,Potential Loyalists
+366,400,3,185500.0,1,2,1,4,At Risk
+367,251,5,392070.0,4,3,2,9,Loyal Customers
+368,288,6,565020.0,3,4,3,10,Champions
+370,341,6,128570.0,2,4,1,7,Loyal Customers
+371,487,2,165750.0,1,1,1,3,At Risk
+372,242,6,520935.0,4,4,3,11,Champions
+373,535,1,51000.0,1,1,1,3,At Risk
+374,351,2,400000.0,2,1,2,5,Potential Loyalists
+375,347,4,587000.0,2,2,3,7,Loyal Customers
+376,248,2,189200.0,4,1,1,6,Potential Loyalists
+377,4,5,232725.0,4,3,1,8,Loyal Customers
+378,330,1,234000.0,2,1,1,4,At Risk
+379,347,4,668500.0,2,2,3,7,Loyal Customers
+380,185,2,797000.0,4,1,3,8,Loyal Customers
+381,94,6,920410.0,4,4,4,12,Champions
+382,353,5,1038550.0,2,3,4,9,Loyal Customers
+383,252,4,807190.0,3,2,3,8,Loyal Customers
+384,291,6,2339500.0,2,4,4,10,Champions
+385,346,3,310730.0,2,2,2,6,Potential Loyalists
+386,234,4,869750.0,4,2,4,10,Champions
+387,355,6,796500.0,1,4,3,8,Loyal Customers
+388,251,4,119850.0,4,2,1,7,Loyal Customers
+389,293,4,876500.0,2,2,4,8,Loyal Customers
+390,350,6,539130.0,2,4,3,9,Loyal Customers
+391,124,8,2716320.0,4,4,4,12,Champions
+392,285,3,213170.0,3,2,1,6,Potential Loyalists
+393,243,5,664750.0,4,3,3,10,Champions
+394,31,3,256400.0,4,2,2,8,Loyal Customers
+395,321,3,299250.0,2,2,2,6,Potential Loyalists
+396,237,5,349050.0,4,3,2,9,Loyal Customers
+397,410,2,486000.0,1,1,3,5,Potential Loyalists
+398,343,8,1046105.0,2,4,4,10,Champions
+399,489,3,1183000.0,1,2,4,7,Loyal Customers
+400,313,6,2350400.0,2,4,4,10,Champions
+402,354,3,194500.0,2,2,1,5,Potential Loyalists
+403,354,2,349500.0,2,1,2,5,Potential Loyalists
+404,344,5,504750.0,2,3,3,8,Loyal Customers
+405,533,2,120690.0,1,1,1,3,At Risk
+406,240,4,230425.0,4,2,1,7,Loyal Customers
+407,347,5,754000.0,2,3,3,8,Loyal Customers
+408,241,6,739330.0,4,4,3,11,Champions
+409,391,5,506400.0,1,3,3,7,Loyal Customers
+410,367,3,944225.0,1,2,4,7,Loyal Customers
+411,443,3,227480.0,1,2,1,4,At Risk
+412,253,2,31200.0,3,1,1,5,Potential Loyalists
+414,325,6,835160.0,2,4,3,9,Loyal Customers
+415,384,5,611920.0,1,3,3,7,Loyal Customers
+416,463,1,260000.0,1,1,2,4,At Risk
+417,249,7,1421550.0,4,4,4,12,Champions
+419,321,5,342050.0,2,3,2,7,Loyal Customers
+420,284,4,366500.0,3,2,2,7,Loyal Customers
+421,218,3,498750.0,4,2,3,9,Loyal Customers
+422,306,3,55640.0,2,2,1,5,Potential Loyalists
+423,249,4,415250.0,4,2,2,8,Loyal Customers
+424,290,3,693000.0,3,2,3,8,Loyal Customers
+425,280,6,809500.0,3,4,3,10,Champions
+426,415,2,355500.0,1,1,2,4,At Risk
+427,330,2,76940.0,2,1,1,4,At Risk
+428,296,4,250500.0,2,2,2,6,Potential Loyalists
+429,465,3,1052845.0,1,2,4,7,Loyal Customers
+430,260,3,260100.0,3,2,2,7,Loyal Customers
+431,2,7,423825.0,4,4,2,10,Champions
+432,93,10,770580.0,4,4,3,11,Champions
+433,482,2,601170.0,1,1,3,5,Potential Loyalists
+434,301,3,504420.0,2,2,3,7,Loyal Customers
+435,154,9,1382050.0,4,4,4,12,Champions
+436,314,3,700250.0,2,2,3,7,Loyal Customers
+437,318,2,31500.0,2,1,1,4,At Risk
+438,299,3,871000.0,2,2,4,8,Loyal Customers
+439,256,1,126000.0,3,1,1,5,Potential Loyalists
+440,376,4,237000.0,1,2,1,4,At Risk
+441,261,3,331200.0,3,2,2,7,Loyal Customers
+442,156,2,355250.0,4,1,2,7,Loyal Customers
+443,274,3,286420.0,3,2,2,7,Loyal Customers
+444,411,1,11250.0,1,1,1,3,At Risk
+445,338,5,673625.0,2,3,3,8,Loyal Customers
+446,241,7,1707500.0,4,4,4,12,Champions
+447,400,2,72200.0,1,1,1,3,At Risk
+448,301,1,96000.0,2,1,1,4,At Risk
+449,315,5,1491975.0,2,3,4,9,Loyal Customers
+450,367,3,259000.0,1,2,2,5,Potential Loyalists
+452,248,4,968000.0,4,2,4,10,Champions
+453,281,2,9165.0,3,1,1,5,Potential Loyalists
+454,234,3,763400.0,4,2,3,9,Loyal Customers
+455,297,3,293000.0,2,2,2,6,Potential Loyalists
+456,277,4,645500.0,3,2,3,8,Loyal Customers
+457,249,4,241000.0,4,2,2,8,Loyal Customers
+458,255,6,868250.0,3,4,4,11,Champions
+459,322,5,492900.0,2,3,3,8,Loyal Customers
+460,493,2,250500.0,1,1,2,4,At Risk
+462,2,4,129900.0,4,2,1,7,Loyal Customers
+463,237,4,438100.0,4,2,2,8,Loyal Customers
+464,184,5,451010.0,4,3,2,9,Loyal Customers
+465,255,3,299500.0,3,2,2,7,Loyal Customers
+466,217,3,156315.0,4,2,1,7,Loyal Customers
+467,290,2,77500.0,3,1,1,5,Potential Loyalists
+468,255,4,1222750.0,3,2,4,9,Loyal Customers
+469,254,8,1211115.0,3,4,4,11,Champions
+470,263,1,1125000.0,3,1,4,8,Loyal Customers
+471,277,3,1040300.0,3,2,4,9,Loyal Customers
+472,3,4,179260.0,4,2,1,7,Loyal Customers
+473,276,6,1064540.0,3,4,4,11,Champions
+474,393,2,136500.0,1,1,1,3,At Risk
+475,292,4,372550.0,2,2,2,6,Potential Loyalists
+476,277,4,577500.0,3,2,3,8,Loyal Customers
+477,313,5,2107800.0,2,3,4,9,Loyal Customers
+478,289,3,220800.0,3,2,1,6,Potential Loyalists
+479,384,4,839000.0,1,2,3,6,Potential Loyalists
+480,246,3,135250.0,4,2,1,7,Loyal Customers
+481,390,6,770030.0,1,4,3,8,Loyal Customers
+482,33,6,1307000.0,4,4,4,12,Champions
+483,566,1,84500.0,1,1,1,3,At Risk
+484,419,2,563345.0,1,1,3,5,Potential Loyalists
+485,307,4,1446250.0,2,2,4,8,Loyal Customers
+486,416,1,280000.0,1,1,2,4,At Risk
+487,389,3,194550.0,1,2,1,4,At Risk
+488,375,4,1259250.0,1,2,4,7,Loyal Customers
+489,342,3,1192500.0,2,2,4,8,Loyal Customers
+490,341,1,14400.0,2,1,1,4,At Risk
+491,400,2,66000.0,1,1,1,3,At Risk
+492,306,2,680000.0,2,1,3,6,Potential Loyalists
+493,267,3,167050.0,3,2,1,6,Potential Loyalists
+494,156,3,81750.0,4,2,1,7,Loyal Customers
+495,63,9,1077900.0,4,4,4,12,Champions
+497,340,2,585500.0,2,1,3,6,Potential Loyalists
+498,528,2,318750.0,1,1,2,4,At Risk
+500,347,5,306000.0,2,3,2,7,Loyal Customers
+501,261,6,1577035.0,3,4,4,11,Champions
+502,278,4,283005.0,3,2,2,7,Loyal Customers
+503,391,2,140400.0,1,1,1,3,At Risk
+504,318,5,905175.0,2,3,4,9,Loyal Customers
+505,301,4,228800.0,2,2,1,5,Potential Loyalists
+506,418,1,42750.0,1,1,1,3,At Risk
+507,294,7,681700.0,2,4,3,9,Loyal Customers
+508,253,6,457900.0,3,4,2,9,Loyal Customers
+509,282,3,198060.0,3,2,1,6,Potential Loyalists
+510,370,1,84500.0,1,1,1,3,At Risk
+511,3,1,315000.0,4,1,2,7,Loyal Customers
+513,283,6,2528500.0,3,4,4,11,Champions
+514,283,5,1086400.0,3,3,4,10,Champions
+515,402,4,501235.0,1,2,3,6,Potential Loyalists
+516,257,6,953000.0,3,4,4,11,Champions
+517,579,2,86400.0,1,1,1,3,At Risk
+518,375,4,1044750.0,1,2,4,7,Loyal Customers
+519,255,4,1195500.0,3,2,4,9,Loyal Customers
+520,537,3,640225.0,1,2,3,6,Potential Loyalists
+521,1,3,324300.0,4,2,2,8,Loyal Customers
+522,390,2,350250.0,1,1,2,4,At Risk
+523,271,3,977200.0,3,2,4,9,Loyal Customers
+524,319,3,327500.0,2,2,2,6,Potential Loyalists
+525,391,4,474000.0,1,2,3,6,Potential Loyalists
+526,304,4,712000.0,2,2,3,7,Loyal Customers
+527,312,2,311250.0,2,1,2,5,Potential Loyalists
+528,337,8,1187875.0,2,4,4,10,Champions
+529,413,3,551000.0,1,2,3,6,Potential Loyalists
+530,185,5,1443500.0,4,3,4,11,Champions
+531,426,2,389250.0,1,1,2,4,At Risk
+532,511,1,5850.0,1,1,1,3,At Risk
+533,395,4,422000.0,1,2,2,5,Potential Loyalists
+534,330,3,1023500.0,2,2,4,8,Loyal Customers
+535,216,2,173100.0,4,1,1,6,Potential Loyalists
+536,374,2,219120.0,1,1,1,3,At Risk
+537,2,5,477700.0,4,3,3,10,Champions
+538,284,5,565840.0,3,3,3,9,Loyal Customers
+539,272,5,1236105.0,3,3,4,10,Champions
+540,292,3,255100.0,2,2,2,6,Potential Loyalists
+541,326,4,450700.0,2,2,2,6,Potential Loyalists
+542,347,4,252000.0,2,2,2,6,Potential Loyalists
+543,345,1,39000.0,2,1,1,4,At Risk
+544,293,4,872500.0,2,2,4,8,Loyal Customers
+545,273,1,31500.0,3,1,1,5,Potential Loyalists
+546,259,4,1171225.0,3,2,4,9,Loyal Customers
+547,375,2,186000.0,1,1,1,3,At Risk
+548,246,4,447000.0,4,2,2,8,Loyal Customers
+549,244,5,680500.0,4,3,3,10,Champions
+550,277,6,812100.0,3,4,3,10,Champions
+551,267,2,339000.0,3,1,2,6,Potential Loyalists
+552,435,4,318800.0,1,2,2,5,Potential Loyalists
+553,246,6,1208695.0,4,4,4,12,Champions
+554,338,2,567500.0,2,1,3,6,Potential Loyalists
+555,533,1,22400.0,1,1,1,3,At Risk
+556,295,5,675750.0,2,3,3,8,Loyal Customers
+557,252,7,765930.0,3,4,3,10,Champions
+558,268,5,939800.0,3,3,4,10,Champions
+559,492,2,25035.0,1,1,1,3,At Risk
+560,247,9,1633170.0,4,4,4,12,Champions
+561,437,3,108350.0,1,2,1,4,At Risk
+562,270,3,828500.0,3,2,3,8,Loyal Customers
+563,254,6,548510.0,3,4,3,10,Champions
+564,266,8,1578250.0,3,4,4,11,Champions
+565,342,10,1282505.0,2,4,4,10,Champions
+566,471,3,1004250.0,1,2,4,7,Loyal Customers
+567,346,4,451720.0,2,2,2,6,Potential Loyalists
+568,254,4,160710.0,3,2,1,6,Potential Loyalists
+569,330,6,975950.0,2,4,4,10,Champions
+570,288,7,1148040.0,3,4,4,11,Champions
+571,505,3,198750.0,1,2,1,4,At Risk
+572,300,5,255540.0,2,3,2,7,Loyal Customers
+573,525,2,1090000.0,1,1,4,6,Potential Loyalists
+574,282,4,613800.0,3,2,3,8,Loyal Customers
+575,403,2,120120.0,1,1,1,3,At Risk
+576,299,6,463750.0,2,4,3,9,Loyal Customers
+577,260,3,146300.0,3,2,1,6,Potential Loyalists
+578,395,4,841500.0,1,2,3,6,Potential Loyalists
+579,430,3,903250.0,1,2,4,7,Loyal Customers
+580,338,8,2030000.0,2,4,4,10,Champions
+581,379,2,211000.0,1,1,1,3,At Risk
+582,409,4,751700.0,1,2,3,6,Potential Loyalists
+584,241,6,1829330.0,4,4,4,12,Champions
+585,282,7,413520.0,3,4,2,9,Loyal Customers
+586,250,6,501065.0,4,4,3,11,Champions
+587,445,1,20800.0,1,1,1,3,At Risk
+588,261,4,406560.0,3,2,2,7,Loyal Customers
+589,378,1,252000.0,1,1,2,4,At Risk
+590,520,2,146250.0,1,1,1,3,At Risk
+592,276,7,392850.0,3,4,2,9,Loyal Customers
+593,345,1,57000.0,2,1,1,4,At Risk
+594,323,3,117000.0,2,2,1,5,Potential Loyalists
+595,64,2,18450.0,4,1,1,6,Potential Loyalists
+596,253,4,557300.0,3,2,3,8,Loyal Customers
+597,312,6,1479750.0,2,4,4,10,Champions
+598,306,2,221000.0,2,1,1,4,At Risk
+599,300,7,785500.0,2,4,3,9,Loyal Customers
+600,264,8,1292970.0,3,4,4,11,Champions
+601,154,2,570000.0,4,1,3,8,Loyal Customers
+602,293,2,366500.0,2,1,2,5,Potential Loyalists
+603,431,3,119450.0,1,2,1,4,At Risk
+604,241,4,181775.0,4,2,1,7,Loyal Customers
+605,309,1,11200.0,2,1,1,4,At Risk
+606,260,3,216780.0,3,2,1,6,Potential Loyalists
+607,476,4,482800.0,1,2,3,6,Potential Loyalists
+608,497,1,256000.0,1,1,2,4,At Risk
+609,274,2,263500.0,3,1,2,6,Potential Loyalists
+610,389,3,771500.0,1,2,3,6,Potential Loyalists
+611,249,4,597500.0,4,2,3,9,Loyal Customers
+612,350,1,5525.0,2,1,1,4,At Risk
+613,292,2,476500.0,2,1,3,6,Potential Loyalists
+614,254,3,379000.0,3,2,2,7,Loyal Customers
+615,255,5,398000.0,3,3,2,8,Loyal Customers
+616,346,2,78640.0,2,1,1,4,At Risk
+617,257,4,304750.0,3,2,2,7,Loyal Customers
+618,240,9,750260.0,4,4,3,11,Champions
+619,264,6,479910.0,3,4,3,10,Champions
+620,354,6,714250.0,2,4,3,9,Loyal Customers
+621,459,2,241250.0,1,1,2,4,At Risk
+622,371,5,467500.0,1,3,3,7,Loyal Customers
+623,403,1,225000.0,1,1,1,3,At Risk
+624,544,1,156000.0,1,1,1,3,At Risk
+625,251,7,1144660.0,4,4,4,12,Champions
+626,264,4,933620.0,3,2,4,9,Loyal Customers
+627,245,6,315600.0,4,4,2,10,Champions
+628,284,9,1929750.0,3,4,4,11,Champions
+629,254,3,1912500.0,3,2,4,9,Loyal Customers
+630,184,3,597250.0,4,2,3,9,Loyal Customers
+631,406,3,178875.0,1,2,1,4,At Risk
+632,294,2,1750000.0,2,1,4,7,Loyal Customers
+633,413,8,644050.0,1,4,3,8,Loyal Customers
+634,241,4,973670.0,4,2,4,10,Champions
+635,478,1,120000.0,1,1,1,3,At Risk
+636,261,7,1735540.0,3,4,4,11,Champions
+637,290,2,409000.0,3,1,2,6,Potential Loyalists
+638,442,3,342750.0,1,2,2,5,Potential Loyalists
+639,454,2,200250.0,1,1,1,3,At Risk
+640,340,8,1123900.0,2,4,4,10,Champions
+641,323,4,671500.0,2,2,3,7,Loyal Customers
+642,291,8,1966670.0,2,4,4,10,Champions
+643,267,4,561750.0,3,2,3,8,Loyal Customers
+644,245,7,1168250.0,4,4,4,12,Champions
+645,289,4,277500.0,3,2,2,7,Loyal Customers
+646,261,3,324000.0,3,2,2,7,Loyal Customers
+647,408,7,521220.0,1,4,3,8,Loyal Customers
+648,349,2,80750.0,2,1,1,4,At Risk
+649,268,3,92900.0,3,2,1,6,Potential Loyalists
+650,157,6,623950.0,4,4,3,11,Champions
+651,283,1,191250.0,3,1,1,5,Potential Loyalists
+652,318,5,374250.0,2,3,2,7,Loyal Customers
+653,509,2,141440.0,1,1,1,3,At Risk
+654,290,5,515350.0,3,3,3,9,Loyal Customers
+655,240,2,55200.0,4,1,1,6,Potential Loyalists
+656,185,5,430950.0,4,3,2,9,Loyal Customers
+657,377,6,498750.0,1,4,3,8,Loyal Customers
+658,380,3,467000.0,1,2,3,6,Potential Loyalists
+659,262,3,1009750.0,3,2,4,9,Loyal Customers
+660,271,6,1372000.0,3,4,4,11,Champions
+661,283,6,350705.0,3,4,2,9,Loyal Customers
+662,263,3,272250.0,3,2,2,7,Loyal Customers
+663,289,2,312000.0,3,1,2,6,Potential Loyalists
+664,185,2,38000.0,4,1,1,6,Potential Loyalists
+665,251,4,309500.0,4,2,2,8,Loyal Customers
+666,267,5,604250.0,3,3,3,9,Loyal Customers
+667,264,6,1062500.0,3,4,4,11,Champions
+668,538,1,26000.0,1,1,1,3,At Risk
+669,341,3,238320.0,2,2,1,5,Potential Loyalists
+670,371,2,342340.0,1,1,2,4,At Risk
+671,311,5,373950.0,2,3,2,7,Loyal Customers
+672,327,6,459250.0,2,4,3,9,Loyal Customers
+673,64,5,613700.0,4,3,3,10,Champions
+674,299,11,810780.0,2,4,3,9,Loyal Customers
+675,443,2,302730.0,1,1,2,4,At Risk
+676,124,3,342500.0,4,2,2,8,Loyal Customers
+677,352,5,587170.0,2,3,3,8,Loyal Customers
+678,358,3,420000.0,1,2,2,5,Potential Loyalists
+679,561,1,18000.0,1,1,1,3,At Risk
+680,246,6,539100.0,4,4,3,11,Champions
+681,412,3,381000.0,1,2,2,5,Potential Loyalists
+682,402,4,1015550.0,1,2,4,7,Loyal Customers
+683,500,2,187500.0,1,1,1,3,At Risk
+684,496,1,110500.0,1,1,1,3,At Risk
+685,283,4,251750.0,3,3,2,8,Loyal Customers
+686,280,2,73820.0,3,1,1,5,Potential Loyalists
+687,244,6,1107170.0,4,4,4,12,Champions
+688,468,4,419000.0,1,3,2,6,Potential Loyalists
+689,274,1,227500.0,3,1,1,5,Potential Loyalists
+690,344,2,157500.0,2,1,1,4,At Risk
+691,319,5,460750.0,2,3,3,8,Loyal Customers
+692,273,5,1039750.0,3,3,4,10,Champions
+693,271,6,1295500.0,3,4,4,11,Champions
+694,336,8,871975.0,2,4,4,10,Champions
+695,543,2,101500.0,1,1,1,3,At Risk
+696,433,2,89400.0,1,1,1,3,At Risk
+697,266,2,229000.0,3,1,1,5,Potential Loyalists
+698,289,6,268460.0,3,4,2,9,Loyal Customers
+699,241,6,803750.0,4,4,3,11,Champions
+700,236,3,134710.0,4,2,1,7,Loyal Customers
+701,261,5,192465.0,3,3,1,7,Loyal Customers
+702,264,5,347825.0,3,3,2,8,Loyal Customers
+703,123,5,274150.0,4,3,2,9,Loyal Customers
+704,235,5,707000.0,4,3,3,10,Champions
+705,406,4,451000.0,1,3,2,6,Potential Loyalists
+707,269,1,21000.0,3,1,1,5,Potential Loyalists
+708,281,3,921500.0,3,2,4,9,Loyal Customers
+709,62,5,1956420.0,4,3,4,11,Champions
+710,156,6,1519650.0,4,4,4,12,Champions
+711,414,2,766500.0,1,1,3,5,Potential Loyalists
+712,286,3,1049900.0,3,2,4,9,Loyal Customers
+713,282,6,1199800.0,3,4,4,11,Champions
+714,320,8,422855.0,2,4,2,8,Loyal Customers
+715,304,3,135000.0,2,2,1,5,Potential Loyalists
+716,381,3,1210000.0,1,2,4,7,Loyal Customers
+717,425,1,110500.0,1,1,1,3,At Risk
+718,259,2,12090.0,3,1,1,5,Potential Loyalists
+719,272,3,1056000.0,3,2,4,9,Loyal Customers
+720,455,1,3315.0,1,1,1,3,At Risk
+721,297,4,473040.0,2,3,3,8,Loyal Customers
+722,326,2,265000.0,2,1,2,5,Potential Loyalists
+723,359,4,246210.0,1,3,2,6,Potential Loyalists
+724,259,6,1517630.0,3,4,4,11,Champions
+725,292,3,962000.0,2,2,4,8,Loyal Customers
+726,269,5,840250.0,3,3,3,9,Loyal Customers
+727,253,3,526500.0,3,2,3,8,Loyal Customers
+728,237,9,1448870.0,4,4,4,12,Champions
+729,482,2,216000.0,1,1,1,3,At Risk
+730,245,2,213000.0,4,1,1,6,Potential Loyalists
+731,403,1,135000.0,1,1,1,3,At Risk
+733,388,8,1342500.0,1,4,4,9,Loyal Customers
+734,584,1,104000.0,1,1,1,3,At Risk
+735,34,6,424950.0,4,4,2,10,Champions
+736,240,6,1148900.0,4,4,4,12,Champions
+737,634,1,156000.0,1,1,1,3,At Risk
+738,488,2,62900.0,1,1,1,3,At Risk
+739,297,4,425250.0,2,3,2,7,Loyal Customers
+740,502,1,225000.0,1,1,1,3,At Risk
+741,257,4,271050.0,3,3,2,8,Loyal Customers
+742,245,6,797150.0,4,4,3,11,Champions
+743,348,3,122160.0,2,2,1,5,Potential Loyalists
+744,273,3,1056000.0,3,2,4,9,Loyal Customers
+745,281,8,989500.0,3,4,4,11,Champions
+746,240,4,375850.0,4,3,2,9,Loyal Customers
+747,32,8,913500.0,4,4,4,12,Champions
+748,330,5,523550.0,2,3,3,8,Loyal Customers
+749,462,6,473300.0,1,4,3,8,Loyal Customers
+750,302,6,1056150.0,2,4,4,10,Champions
+751,512,2,81250.0,1,1,1,3,At Risk
+752,393,2,382750.0,1,1,2,4,At Risk
+753,279,4,480500.0,3,3,3,9,Loyal Customers
+754,311,6,835475.0,2,4,3,9,Loyal Customers
+755,579,1,94500.0,1,1,1,3,At Risk
+756,292,5,428360.0,2,3,2,7,Loyal Customers
+757,465,5,543000.0,1,3,3,7,Loyal Customers
+758,236,5,870750.0,4,3,4,11,Champions
+759,2,7,2722700.0,4,4,4,12,Champions
+760,244,2,170250.0,4,1,1,6,Potential Loyalists
+761,254,4,184530.0,3,3,1,7,Loyal Customers
+762,236,7,484735.0,4,4,3,11,Champions
+763,241,5,573650.0,4,3,3,10,Champions
+764,309,3,263500.0,2,2,2,6,Potential Loyalists
+765,465,3,133875.0,1,2,1,4,At Risk
+766,234,3,553000.0,4,2,3,9,Loyal Customers
+767,318,6,698205.0,2,4,3,9,Loyal Customers
+768,251,2,220000.0,4,1,1,6,Potential Loyalists
+769,512,1,168750.0,1,1,1,3,At Risk
+770,265,3,415500.0,3,2,2,7,Loyal Customers
+771,259,10,1431750.0,3,4,4,11,Champions
+772,307,3,256250.0,2,2,2,6,Potential Loyalists
+773,234,5,465500.0,4,3,3,10,Champions
+774,325,6,941000.0,2,4,4,10,Champions
+775,217,8,874750.0,4,4,4,12,Champions
+776,240,6,526170.0,4,4,3,11,Champions
+777,595,1,9750.0,1,1,1,3,At Risk
+778,244,4,279000.0,4,3,2,9,Loyal Customers
+779,290,3,858000.0,3,2,4,9,Loyal Customers
+780,404,3,1291500.0,1,2,4,7,Loyal Customers
+781,261,3,684250.0,3,2,3,8,Loyal Customers
+782,253,5,569815.0,3,3,3,9,Loyal Customers
+783,282,3,238910.0,3,2,2,7,Loyal Customers
+784,250,1,144000.0,4,1,1,6,Potential Loyalists
+785,438,2,34200.0,1,1,1,3,At Risk
+786,65,4,217410.0,4,3,1,8,Loyal Customers
+787,286,3,249750.0,3,2,2,7,Loyal Customers
+788,256,6,1349350.0,3,4,4,11,Champions
+789,235,5,204560.0,4,3,1,8,Loyal Customers
+790,272,2,252000.0,3,1,2,6,Potential Loyalists
+791,304,4,122900.0,2,3,1,6,Potential Loyalists
+792,282,2,1168000.0,3,1,4,8,Loyal Customers
+793,507,1,48000.0,1,1,1,3,At Risk
+794,184,2,176000.0,4,1,1,6,Potential Loyalists
+796,251,6,568450.0,4,4,3,11,Champions
+797,342,4,701630.0,2,3,3,8,Loyal Customers
+798,268,6,202700.0,3,4,1,8,Loyal Customers
+799,124,8,1441750.0,4,4,4,12,Champions
+800,318,7,868390.0,2,4,4,10,Champions
+801,302,2,62000.0,2,1,1,4,At Risk
+802,277,2,63845.0,3,1,1,5,Potential Loyalists
+803,447,1,1000000.0,1,1,4,6,Potential Loyalists
+804,257,4,1054750.0,3,3,4,10,Champions
+805,260,4,740000.0,3,3,3,9,Loyal Customers
+806,341,7,1318225.0,2,4,4,10,Champions
+807,126,5,1149500.0,4,3,4,11,Champions
+808,410,5,451215.0,1,3,2,6,Potential Loyalists
+809,420,3,410750.0,1,2,2,5,Potential Loyalists
+810,325,5,792500.0,2,3,3,8,Loyal Customers
+811,298,2,157690.0,2,1,1,4,At Risk
+812,293,2,400000.0,2,1,2,5,Potential Loyalists
+813,3,6,473850.0,4,4,3,11,Champions
+814,342,5,870920.0,2,3,4,9,Loyal Customers
+815,445,3,466750.0,1,2,3,6,Potential Loyalists
+816,155,5,282680.0,4,3,2,9,Loyal Customers
+817,331,4,482000.0,2,3,3,8,Loyal Customers
+818,306,2,292250.0,2,1,2,5,Potential Loyalists
+819,259,7,997450.0,3,4,4,11,Champions
+820,4,9,1163770.0,4,4,4,12,Champions
+821,251,4,189205.0,4,3,1,8,Loyal Customers
+822,284,6,579570.0,3,4,3,10,Champions
+823,251,2,349500.0,4,1,2,7,Loyal Customers
+824,259,2,194000.0,3,1,1,5,Potential Loyalists
+825,286,4,1325700.0,3,3,4,10,Champions
+826,346,3,173535.0,2,2,1,5,Potential Loyalists
+827,234,2,108250.0,4,1,1,6,Potential Loyalists
+828,64,2,29100.0,4,1,1,6,Potential Loyalists
+829,393,2,168750.0,1,1,1,3,At Risk
+830,254,2,271500.0,3,1,2,6,Potential Loyalists
+832,282,2,49950.0,3,1,1,5,Potential Loyalists
+833,257,6,878500.0,3,4,4,11,Champions
+835,31,5,1243250.0,4,3,4,11,Champions
+836,264,5,269245.0,3,3,2,8,Loyal Customers
+837,450,2,139500.0,1,1,1,3,At Risk
+838,340,6,810285.0,2,4,3,9,Loyal Customers
+839,260,3,394250.0,3,2,2,7,Loyal Customers
+840,275,5,686300.0,3,3,3,9,Loyal Customers
+841,367,2,458500.0,1,1,3,5,Potential Loyalists
+842,347,3,704750.0,2,2,3,7,Loyal Customers
+843,358,6,1241250.0,1,4,4,9,Loyal Customers
+844,238,4,599500.0,4,3,3,10,Champions
+845,279,6,907350.0,3,4,4,11,Champions
+846,268,4,863750.0,3,3,4,10,Champions
+847,254,4,206500.0,3,3,1,7,Loyal Customers
+848,297,3,348150.0,2,2,2,6,Potential Loyalists
+849,412,2,1333750.0,1,1,4,6,Potential Loyalists
+850,306,4,857550.0,2,3,4,9,Loyal Customers
+852,332,3,351000.0,2,2,2,6,Potential Loyalists
+853,123,6,469000.0,4,4,3,11,Champions
+854,253,5,263490.0,3,3,2,8,Loyal Customers
+855,371,3,305400.0,1,2,2,5,Potential Loyalists
+856,578,1,192000.0,1,1,1,3,At Risk
+857,486,2,440000.0,1,1,2,4,At Risk
+858,354,4,558750.0,2,3,3,8,Loyal Customers
+859,579,1,36000.0,1,1,1,3,At Risk
+860,289,2,426000.0,3,1,2,6,Potential Loyalists
+861,62,6,953250.0,4,4,4,12,Champions
+862,265,2,297000.0,3,1,2,6,Potential Loyalists
+863,328,2,224500.0,2,1,1,4,At Risk
+864,286,5,492250.0,3,3,3,9,Loyal Customers
+865,64,7,672385.0,4,4,3,11,Champions
+866,92,3,192850.0,4,2,1,7,Loyal Customers
+867,507,2,991000.0,1,1,4,6,Potential Loyalists
+868,388,6,502970.0,1,4,3,8,Loyal Customers
+869,365,5,623900.0,1,3,3,7,Loyal Customers
+870,3,3,30740.0,4,2,1,7,Loyal Customers
+871,319,3,424250.0,2,2,2,6,Potential Loyalists
+872,293,6,615275.0,2,4,3,9,Loyal Customers
+873,347,5,1113000.0,2,3,4,9,Loyal Customers
+874,234,7,895550.0,4,4,4,12,Champions
+875,487,1,237500.0,1,1,1,3,At Risk
+876,124,7,495525.0,4,4,3,11,Champions
+877,311,5,633250.0,2,3,3,8,Loyal Customers
+878,288,5,1255160.0,3,3,4,10,Champions
+879,257,8,1803000.0,3,4,4,11,Champions
+880,316,3,144800.0,2,2,1,5,Potential Loyalists
+881,215,5,683400.0,4,3,3,10,Champions
+882,466,1,14400.0,1,1,1,3,At Risk
+883,328,3,1005775.0,2,2,4,8,Loyal Customers
+884,374,4,304650.0,1,3,2,6,Potential Loyalists
+885,308,4,309400.0,2,3,2,7,Loyal Customers
+886,234,6,835750.0,4,4,3,11,Champions
+887,316,3,490500.0,2,2,3,7,Loyal Customers
+888,254,6,451310.0,3,4,2,9,Loyal Customers
+889,300,5,253040.0,2,3,2,7,Loyal Customers
+890,156,7,2259000.0,4,4,4,12,Champions
+891,333,4,1389250.0,2,3,4,9,Loyal Customers
+892,233,7,1325510.0,4,4,4,12,Champions
+893,235,4,1335000.0,4,3,4,11,Champions
+894,292,4,528750.0,2,3,3,8,Loyal Customers
+895,524,3,1349000.0,1,2,4,7,Loyal Customers
+896,240,3,267050.0,4,2,2,8,Loyal Customers
+897,241,2,13815.0,4,1,1,6,Potential Loyalists
+898,281,3,366750.0,3,2,2,7,Loyal Customers
+899,255,5,337200.0,3,3,2,8,Loyal Customers
+900,3,4,174285.0,4,3,1,8,Loyal Customers
+901,249,7,1170840.0,4,4,4,12,Champions
+902,241,6,639600.0,4,4,3,11,Champions
+903,358,5,386250.0,1,3,2,6,Potential Loyalists
+904,305,6,1170040.0,2,4,4,10,Champions
+905,255,6,596525.0,3,4,3,10,Champions
+906,294,1,152000.0,2,1,1,4,At Risk
+907,215,7,724550.0,4,4,3,11,Champions
+908,251,3,295200.0,4,2,2,8,Loyal Customers
+909,435,4,297650.0,1,3,2,6,Potential Loyalists
+910,377,3,325700.0,1,2,2,5,Potential Loyalists
+911,241,8,391570.0,4,4,2,10,Champions
+912,346,5,581750.0,2,3,3,8,Loyal Customers
+913,94,4,574000.0,4,3,3,10,Champions
+914,549,1,196000.0,1,1,1,3,At Risk
+915,247,2,678000.0,4,1,3,8,Loyal Customers
+916,453,4,562000.0,1,3,3,7,Loyal Customers
+917,258,7,1834750.0,3,4,4,11,Champions
+918,316,4,913500.0,2,3,4,9,Loyal Customers
+919,406,2,27975.0,1,1,1,3,At Risk
+920,313,3,1081250.0,2,2,4,8,Loyal Customers
+921,242,6,1505750.0,4,4,4,12,Champions
+922,251,3,215730.0,4,2,1,7,Loyal Customers
+923,308,5,564950.0,2,3,3,8,Loyal Customers
+924,349,2,266000.0,2,1,2,5,Potential Loyalists
+925,419,2,40000.0,1,1,1,3,At Risk
+926,370,5,419895.0,1,3,2,6,Potential Loyalists
+927,379,5,440500.0,1,3,2,6,Potential Loyalists
+928,334,1,54000.0,2,1,1,4,At Risk
+929,342,4,143535.0,2,3,1,6,Potential Loyalists
+930,241,6,394975.0,4,4,2,10,Champions
+931,405,4,150475.0,1,3,1,5,Potential Loyalists
+932,380,3,366500.0,1,2,2,5,Potential Loyalists
+933,124,8,1776075.0,4,4,4,12,Champions
+934,272,5,747340.0,3,3,3,9,Loyal Customers
+935,246,5,599315.0,4,3,3,10,Champions
+936,235,6,851690.0,4,4,3,11,Champions
+937,249,6,748000.0,4,4,3,11,Champions
+938,3,5,253820.0,4,3,2,9,Loyal Customers
+939,269,5,531750.0,3,3,3,9,Loyal Customers
+940,265,6,1370100.0,3,4,4,11,Champions
+941,335,4,289500.0,2,3,2,7,Loyal Customers
+942,263,4,837000.0,3,3,3,9,Loyal Customers
+943,441,2,192180.0,1,1,1,3,At Risk
+944,235,2,396600.0,4,1,2,7,Loyal Customers
+945,247,6,1327040.0,4,4,4,12,Champions
+946,344,5,372570.0,2,3,2,7,Loyal Customers
+947,215,6,1265000.0,4,4,4,12,Champions
+948,305,6,1393250.0,2,4,4,10,Champions
+949,3,5,512500.0,4,3,3,10,Champions
+950,245,6,486450.0,4,4,3,11,Champions
+951,124,10,889425.0,4,4,4,12,Champions
+952,2,2,45870.0,4,1,1,6,Potential Loyalists
+953,277,6,1249185.0,3,4,4,11,Champions
+955,262,5,1314750.0,3,3,4,10,Champions
+956,317,4,1010500.0,2,3,4,9,Loyal Customers
+957,261,3,305550.0,3,2,2,7,Loyal Customers
+958,288,3,355855.0,3,2,2,7,Loyal Customers
+959,362,3,984000.0,1,2,4,7,Loyal Customers
+960,344,5,1009800.0,2,3,4,9,Loyal Customers
+961,216,5,518250.0,4,3,3,10,Champions
+962,283,4,522300.0,3,3,3,9,Loyal Customers
+963,292,7,127470.0,2,4,1,7,Loyal Customers
+964,92,5,872500.0,4,3,4,11,Champions
+965,250,5,480750.0,4,3,3,10,Champions
+966,269,4,832175.0,3,3,3,9,Loyal Customers
+967,336,5,714500.0,2,3,3,8,Loyal Customers
+968,157,6,1123000.0,4,4,4,12,Champions
+969,246,4,1024000.0,4,3,4,11,Champions
+970,423,3,666750.0,1,2,3,6,Potential Loyalists
+971,357,4,1231200.0,1,3,4,8,Loyal Customers
+972,328,1,14400.0,2,1,1,4,At Risk
+973,379,4,483000.0,1,3,3,7,Loyal Customers
+974,427,4,442450.0,1,3,2,6,Potential Loyalists
+975,247,6,372050.0,4,4,2,10,Champions
+976,236,5,2911000.0,4,3,4,11,Champions
+977,124,6,1549150.0,4,4,4,12,Champions
+978,464,2,179940.0,1,1,1,3,At Risk
+979,341,3,767000.0,2,2,3,7,Loyal Customers
+980,64,5,1243250.0,4,3,4,11,Champions
+981,62,5,470070.0,4,3,3,10,Champions
+982,4,3,454250.0,4,2,2,8,Loyal Customers
+983,446,1,32000.0,1,1,1,3,At Risk
+984,238,5,645250.0,4,3,3,10,Champions
+985,314,3,96900.0,2,2,1,5,Potential Loyalists
+986,493,1,30400.0,1,1,1,3,At Risk
+987,362,6,976000.0,1,4,4,9,Loyal Customers
+988,261,8,1499500.0,3,4,4,11,Champions
+989,155,5,508250.0,4,3,3,10,Champions
+990,378,3,1385250.0,1,2,4,7,Loyal Customers
+991,303,4,310500.0,2,3,2,7,Loyal Customers
+992,313,4,1025500.0,2,3,4,9,Loyal Customers
+993,462,4,1312000.0,1,3,4,8,Loyal Customers
+994,377,4,408800.0,1,3,2,6,Potential Loyalists
+995,253,1,4680.0,3,1,1,5,Potential Loyalists
+996,244,7,1221725.0,4,4,4,12,Champions
+997,314,3,639000.0,2,2,3,7,Loyal Customers
+998,385,5,352550.0,1,3,2,6,Potential Loyalists
+999,255,3,156400.0,3,2,1,6,Potential Loyalists
+1000,402,2,37065.0,1,1,1,3,At Risk
+1001,265,3,795000.0,3,2,3,8,Loyal Customers
+1002,262,6,493200.0,3,4,3,10,Champions
+1003,235,3,578500.0,4,2,3,9,Loyal Customers
+1004,341,5,1115300.0,2,3,4,9,Loyal Customers
+1005,255,4,427950.0,3,3,2,8,Loyal Customers
+1006,316,7,1566500.0,2,4,4,10,Champions
+1007,371,4,231800.0,1,3,1,5,Potential Loyalists
+1008,300,4,602500.0,2,3,3,8,Loyal Customers
+1009,496,1,1820.0,1,1,1,3,At Risk
+1010,333,5,417600.0,2,3,2,7,Loyal Customers
+1011,332,3,373000.0,2,2,2,6,Potential Loyalists
+1012,334,3,157900.0,2,2,1,5,Potential Loyalists
+1013,439,1,47500.0,1,1,1,3,At Risk
+1014,264,5,570975.0,3,3,3,9,Loyal Customers
+1015,277,3,119200.0,3,2,1,6,Potential Loyalists
+1016,289,2,233750.0,3,1,1,5,Potential Loyalists
+1017,370,1,28800.0,1,1,1,3,At Risk
+1018,248,2,820000.0,4,1,3,8,Loyal Customers
+1019,239,2,154000.0,4,1,1,6,Potential Loyalists
+1020,295,1,5200.0,2,1,1,4,At Risk
+1021,289,2,195750.0,3,1,1,5,Potential Loyalists
+1022,387,3,311000.0,1,2,2,5,Potential Loyalists
+1023,374,4,1137500.0,1,3,4,8,Loyal Customers
+1024,533,2,554000.0,1,1,3,5,Potential Loyalists
+1025,324,6,1151200.0,2,4,4,10,Champions
+1026,234,3,542000.0,4,2,3,9,Loyal Customers
+1027,244,5,505250.0,4,3,3,10,Champions
+1028,276,8,1670360.0,3,4,4,11,Champions
+1029,309,4,210200.0,2,3,1,6,Potential Loyalists
+1030,547,1,712500.0,1,1,3,5,Potential Loyalists
+1032,406,4,134150.0,1,3,1,5,Potential Loyalists
+1033,334,4,197250.0,2,3,1,6,Potential Loyalists
+1034,242,7,613750.0,4,4,3,11,Champions
+1035,406,3,161595.0,1,2,1,4,At Risk
+1036,235,5,302235.0,4,3,2,9,Loyal Customers
+1037,283,5,160340.0,3,3,1,7,Loyal Customers
+1038,340,3,245500.0,2,2,2,6,Potential Loyalists
+1039,383,1,10400.0,1,1,1,3,At Risk
+1041,356,2,132440.0,1,1,1,3,At Risk
+1042,296,5,803060.0,2,3,3,8,Loyal Customers
+1043,439,4,216100.0,1,3,1,5,Potential Loyalists
+1044,244,5,1377420.0,4,3,4,11,Champions
+1045,267,3,49570.0,3,2,1,6,Potential Loyalists
+1046,275,5,1036250.0,3,3,4,10,Champions
+1047,364,4,656000.0,1,3,3,7,Loyal Customers
+1048,258,5,712500.0,3,3,3,9,Loyal Customers
+1049,323,4,1178000.0,2,3,4,9,Loyal Customers
+1050,314,2,298410.0,2,1,2,5,Potential Loyalists
+1051,544,2,67000.0,1,1,1,3,At Risk
+1052,516,2,150910.0,1,1,1,3,At Risk
+1053,331,5,336200.0,2,3,2,7,Loyal Customers
+1054,243,6,216025.0,4,4,1,9,Loyal Customers
+1055,235,3,336750.0,4,2,2,8,Loyal Customers
+1056,263,5,970300.0,3,3,4,10,Champions
+1057,343,1,30400.0,2,1,1,4,At Risk
+1058,264,6,853250.0,3,4,4,11,Champions
+1059,287,5,330645.0,3,3,2,8,Loyal Customers
+1060,267,6,413915.0,3,4,2,9,Loyal Customers
+1061,479,1,1105.0,1,1,1,3,At Risk
+1062,591,2,259000.0,1,1,2,4,At Risk
+1063,357,7,536950.0,1,4,3,8,Loyal Customers
+1064,258,3,300760.0,3,2,2,7,Loyal Customers
+1065,422,3,329100.0,1,2,2,5,Potential Loyalists
+1066,254,5,997670.0,3,3,4,10,Champions
+1067,243,2,298250.0,4,1,2,7,Loyal Customers
+1068,297,3,84280.0,2,2,1,5,Potential Loyalists
+1069,284,2,307250.0,3,1,2,6,Potential Loyalists
+1070,187,6,334500.0,4,4,2,10,Champions
+1072,425,3,99870.0,1,2,1,4,At Risk
+1073,235,2,113410.0,4,1,1,6,Potential Loyalists
+1074,65,8,668235.0,4,4,3,11,Champions
+1075,395,2,540000.0,1,1,3,5,Potential Loyalists
+1076,560,1,224000.0,1,1,1,3,At Risk
+1077,3,8,1183380.0,4,4,4,12,Champions
+1078,442,3,447000.0,1,2,2,5,Potential Loyalists
+1079,340,5,345130.0,2,3,2,7,Loyal Customers
+1080,400,5,235975.0,1,3,1,5,Potential Loyalists
+1081,279,2,56600.0,3,1,1,5,Potential Loyalists
+1082,294,3,564000.0,2,2,3,7,Loyal Customers
+1083,296,5,461500.0,2,3,3,8,Loyal Customers
+1084,241,4,295605.0,4,3,2,9,Loyal Customers
+1085,318,6,1217220.0,2,4,4,10,Champions
+1086,378,5,813000.0,1,3,3,7,Loyal Customers
+1087,383,7,734390.0,1,4,3,8,Loyal Customers
+1088,283,4,939000.0,3,3,4,10,Champions
+1089,186,5,424050.0,4,3,2,9,Loyal Customers
+1090,280,9,1693840.0,3,4,4,11,Champions
+1091,355,4,889000.0,1,3,4,8,Loyal Customers
+1092,285,10,1414395.0,3,4,4,11,Champions
+1093,252,4,391000.0,3,3,2,8,Loyal Customers
+1094,156,6,574910.0,4,4,3,11,Champions
+1095,575,1,237500.0,1,1,1,3,At Risk
+1096,359,4,1398000.0,1,3,4,8,Loyal Customers
+1097,495,2,350000.0,1,1,2,4,At Risk
+1098,280,2,172000.0,3,1,1,5,Potential Loyalists
+1099,275,9,1652300.0,3,4,4,11,Champions
+1100,264,3,827735.0,3,2,3,8,Loyal Customers
+1101,288,6,591620.0,3,4,3,10,Champions
+1102,283,4,380400.0,3,3,2,8,Loyal Customers
+1103,125,5,943000.0,4,3,4,11,Champions
+1104,1,4,303445.0,4,3,2,9,Loyal Customers
+1105,390,5,427950.0,1,3,2,6,Potential Loyalists
+1106,356,3,377330.0,1,2,2,5,Potential Loyalists
+1107,413,3,1258500.0,1,2,4,7,Loyal Customers
+1108,236,3,279500.0,4,2,2,8,Loyal Customers
+1109,155,5,480150.0,4,3,3,10,Champions
+1110,459,1,300000.0,1,1,2,4,At Risk
+1111,254,2,192000.0,3,1,1,5,Potential Loyalists
+1112,352,1,144000.0,2,1,1,4,At Risk
+1113,409,3,238595.0,1,2,1,4,At Risk
+1114,316,5,1125465.0,2,3,4,9,Loyal Customers
+1115,300,1,14250.0,2,1,1,4,At Risk
+1116,237,3,524000.0,4,2,3,9,Loyal Customers
+1117,281,3,170075.0,3,2,1,6,Potential Loyalists
+1118,408,2,252000.0,1,1,2,4,At Risk
+1119,265,5,779000.0,3,3,3,9,Loyal Customers
+1120,280,3,263525.0,3,2,2,7,Loyal Customers
+1121,337,4,644750.0,2,3,3,8,Loyal Customers
+1122,274,2,162000.0,3,1,1,5,Potential Loyalists
+1123,343,2,354250.0,2,1,2,5,Potential Loyalists
+1124,271,4,400500.0,3,3,2,8,Loyal Customers
+1125,250,8,1080500.0,4,4,4,12,Champions
+1126,241,5,354250.0,4,3,2,9,Loyal Customers
+1127,280,2,222750.0,3,1,1,5,Potential Loyalists
+1128,246,7,538590.0,4,4,3,11,Champions
+1129,31,4,341100.0,4,3,2,9,Loyal Customers
+1130,309,3,545735.0,2,2,3,7,Loyal Customers
+1131,297,8,1445600.0,2,4,4,10,Champions
+1132,246,7,281070.0,4,4,2,10,Champions
+1133,364,4,424900.0,1,3,2,6,Potential Loyalists
+1134,126,6,167260.0,4,4,1,9,Loyal Customers
+1135,253,8,868000.0,3,4,4,11,Champions
+1136,352,4,1061100.0,2,3,4,9,Loyal Customers
+1137,406,5,402830.0,1,3,2,6,Potential Loyalists
+1138,460,3,129350.0,1,2,1,4,At Risk
+1139,156,7,1912350.0,4,4,4,12,Champions
+1140,65,7,509560.0,4,4,3,11,Champions
+1141,125,6,968000.0,4,4,4,12,Champions
+1142,351,3,766510.0,2,2,3,7,Loyal Customers
+1143,477,1,221000.0,1,1,1,3,At Risk
+1144,341,2,176690.0,2,1,1,4,At Risk
+1145,500,1,169000.0,1,1,1,3,At Risk
+1146,256,3,485500.0,3,2,3,8,Loyal Customers
+1147,254,5,597700.0,3,3,3,9,Loyal Customers
+1148,278,1,2535.0,3,1,1,5,Potential Loyalists
+1149,253,6,749880.0,3,4,3,10,Champions
+1150,255,3,521090.0,3,2,3,8,Loyal Customers
+1151,251,5,255950.0,4,3,2,9,Loyal Customers
+1152,405,1,144000.0,1,1,1,3,At Risk
+1153,218,6,320720.0,4,4,2,10,Champions
+1154,247,6,402630.0,4,4,2,10,Champions
+1155,354,3,1342500.0,2,2,4,8,Loyal Customers
+1156,233,3,427750.0,4,2,2,8,Loyal Customers
+1157,331,6,426880.0,2,4,2,8,Loyal Customers
+1158,62,3,572000.0,4,2,3,9,Loyal Customers
+1159,280,5,1469500.0,3,3,4,10,Champions
+1160,370,4,247050.0,1,3,2,6,Potential Loyalists
+1161,451,4,546400.0,1,3,3,7,Loyal Customers
+1162,264,4,316595.0,3,3,2,8,Loyal Customers
+1163,260,3,697400.0,3,2,3,8,Loyal Customers
+1164,382,4,624300.0,1,3,3,7,Loyal Customers
+1165,322,7,1715000.0,2,4,4,10,Champions
+1166,357,1,3380.0,1,1,1,3,At Risk
+1167,126,4,534750.0,4,3,3,10,Champions
+1168,239,5,937250.0,4,3,4,11,Champions
+1169,695,1,153000.0,1,1,1,3,At Risk
+1170,2,6,713400.0,4,4,3,11,Champions
+1171,296,5,1734500.0,2,3,4,9,Loyal Customers
+1172,467,1,128000.0,1,1,1,3,At Risk
+1173,277,3,232500.0,3,2,1,6,Potential Loyalists
+1174,290,3,625000.0,3,2,3,8,Loyal Customers
+1175,343,5,1006880.0,2,3,4,9,Loyal Customers
+1176,319,4,1927750.0,2,3,4,9,Loyal Customers
+1178,187,3,161700.0,4,2,1,7,Loyal Customers
+1179,235,8,988050.0,4,4,4,12,Champions
+1180,336,3,372500.0,2,2,2,6,Potential Loyalists
+1181,397,3,366000.0,1,2,2,5,Potential Loyalists
+1182,246,8,1529455.0,4,4,4,12,Champions
+1183,236,2,177900.0,4,1,1,6,Potential Loyalists
+1184,330,6,499750.0,2,4,3,9,Loyal Customers
+1185,335,5,1037920.0,2,3,4,9,Loyal Customers
+1186,254,3,246000.0,3,2,2,7,Loyal Customers
+1187,321,1,171000.0,2,1,1,4,At Risk
+1188,279,4,161180.0,3,3,1,7,Loyal Customers
+1189,365,7,271820.0,1,4,2,7,Loyal Customers
+1190,187,6,431250.0,4,4,2,10,Champions
+1191,336,6,813730.0,2,4,3,9,Loyal Customers
+1192,291,2,330000.0,2,1,2,5,Potential Loyalists
+1193,455,1,51000.0,1,1,1,3,At Risk
+1194,577,1,187500.0,1,1,1,3,At Risk
+1195,307,4,1238500.0,2,3,4,9,Loyal Customers
+1196,239,4,446340.0,4,3,2,9,Loyal Customers
+1197,328,4,660500.0,2,3,3,8,Loyal Customers
+1198,238,10,941750.0,4,4,4,12,Champions
+1199,332,6,1033650.0,2,4,4,10,Champions
+1200,459,2,91500.0,1,1,1,3,At Risk
+1201,245,4,188750.0,4,3,1,8,Loyal Customers
+1202,475,1,21600.0,1,1,1,3,At Risk
+1203,187,2,350000.0,4,1,2,7,Loyal Customers
+1204,246,4,233700.0,4,3,1,8,Loyal Customers
+1205,325,3,301250.0,2,2,2,6,Potential Loyalists
+1206,324,1,21000.0,2,1,1,4,At Risk
+1207,318,6,909940.0,2,4,4,10,Champions
+1208,328,4,398500.0,2,3,2,7,Loyal Customers
+1209,279,7,1595730.0,3,4,4,11,Champions
+1210,281,4,674000.0,3,3,3,9,Loyal Customers
+1211,254,3,316170.0,3,2,2,7,Loyal Customers
+1212,354,3,691500.0,2,2,3,7,Loyal Customers
+1213,256,6,1217950.0,3,4,4,11,Champions
+1214,526,3,338250.0,1,2,2,5,Potential Loyalists
+1215,468,3,536500.0,1,2,3,6,Potential Loyalists
+1216,255,6,848210.0,3,4,3,10,Champions
+1217,383,4,1347000.0,1,3,4,8,Loyal Customers
+1218,236,6,587330.0,4,4,3,11,Champions
+1219,154,5,610925.0,4,3,3,10,Champions
+1220,327,8,575100.0,2,4,3,9,Loyal Customers
+1221,350,6,991500.0,2,4,4,10,Champions
+1222,308,6,1143440.0,2,4,4,10,Champions
+1223,308,5,747000.0,2,3,3,8,Loyal Customers
+1224,336,3,480225.0,2,2,3,7,Loyal Customers
+1225,587,1,266000.0,1,1,2,4,At Risk
+1226,155,6,448500.0,4,4,2,10,Champions
+1227,560,1,136500.0,1,1,1,3,At Risk
+1228,274,3,386250.0,3,2,2,7,Loyal Customers
+1229,257,4,183725.0,3,3,1,7,Loyal Customers
+1230,442,3,434000.0,1,2,2,5,Potential Loyalists
+1231,311,2,248750.0,2,1,2,5,Potential Loyalists
+1232,276,5,1930040.0,3,3,4,10,Champions
+1233,341,7,1483820.0,2,4,4,10,Champions
+1234,278,4,546250.0,3,3,3,9,Loyal Customers
+1235,286,2,133750.0,3,1,1,5,Potential Loyalists
+1236,329,2,69300.0,2,1,1,4,At Risk
+1237,257,3,373750.0,3,2,2,7,Loyal Customers
+1238,275,2,6490.0,3,1,1,5,Potential Loyalists
+1239,4,3,27635.0,4,2,1,7,Loyal Customers
+1240,263,4,376870.0,3,3,2,8,Loyal Customers
+1241,65,6,863560.0,4,4,4,12,Champions
+1242,252,5,389105.0,3,3,2,8,Loyal Customers
+1243,386,2,246500.0,1,1,2,4,At Risk
+1244,262,5,501910.0,3,3,3,9,Loyal Customers
+1245,249,5,849250.0,4,3,3,10,Champions
+1246,256,1,52500.0,3,1,1,5,Potential Loyalists
+1247,154,4,730750.0,4,3,3,10,Champions
+1248,265,5,210550.0,3,3,1,7,Loyal Customers
+1249,247,4,997250.0,4,3,4,11,Champions
+1250,248,5,663700.0,4,3,3,10,Champions
+1251,92,6,689600.0,4,4,3,11,Champions
+1252,313,3,774000.0,2,2,3,7,Loyal Customers
+1253,254,7,539800.0,3,4,3,10,Champions
+1254,246,2,508000.0,4,1,3,8,Loyal Customers
+1255,186,3,186740.0,4,2,1,7,Loyal Customers
+1256,272,4,222005.0,3,3,1,7,Loyal Customers
+1257,240,3,335300.0,4,2,2,8,Loyal Customers
+1258,300,4,1442250.0,2,3,4,9,Loyal Customers
+1259,457,1,101250.0,1,1,1,3,At Risk
+1260,532,1,12000.0,1,1,1,3,At Risk
+1261,428,6,1673050.0,1,4,4,9,Loyal Customers
+1262,282,5,1429500.0,3,3,4,10,Champions
+1263,187,5,719750.0,4,3,3,10,Champions
+1264,344,4,525400.0,2,3,3,8,Loyal Customers
+1265,235,7,1193400.0,4,4,4,12,Champions
+1266,309,5,1495300.0,2,3,4,9,Loyal Customers
+1267,187,4,112520.0,4,3,1,8,Loyal Customers
+1268,422,2,409500.0,1,1,2,4,At Risk
+1269,95,3,151500.0,4,2,1,7,Loyal Customers
+1270,311,7,699920.0,2,4,3,9,Loyal Customers
+1271,2,4,1030000.0,4,3,4,11,Champions
+1272,34,1,29250.0,4,1,1,6,Potential Loyalists
+1273,330,4,577500.0,2,3,3,8,Loyal Customers
+1274,156,6,755500.0,4,4,3,11,Champions
+1275,294,4,249330.0,2,3,2,7,Loyal Customers
+1276,243,8,2227410.0,4,4,4,12,Champions
+1277,187,6,843335.0,4,4,3,11,Champions
+1278,246,4,540640.0,4,3,3,10,Champions
+1279,317,7,903950.0,2,4,4,10,Champions
+1280,434,3,353000.0,1,2,2,5,Potential Loyalists
+1281,290,4,658410.0,3,3,3,9,Loyal Customers
+1282,264,6,426000.0,3,4,2,9,Loyal Customers
+1283,287,6,392120.0,3,4,2,9,Loyal Customers
+1284,343,5,364950.0,2,3,2,7,Loyal Customers
+1285,315,5,1078450.0,2,3,4,9,Loyal Customers
+1286,154,3,1415000.0,4,2,4,10,Champions
+1287,242,9,1216540.0,4,4,4,12,Champions
+1288,335,4,1116500.0,2,3,4,9,Loyal Customers
+1289,257,4,457995.0,3,3,3,9,Loyal Customers
+1290,390,2,153300.0,1,1,1,3,At Risk
+1291,245,3,143025.0,4,2,1,7,Loyal Customers
+1292,236,4,295800.0,4,3,2,9,Loyal Customers
+1293,362,6,225740.0,1,4,1,6,Potential Loyalists
+1294,247,7,1488200.0,4,4,4,12,Champions
+1295,2,2,238500.0,4,1,1,6,Potential Loyalists
+1296,259,5,590200.0,3,3,3,9,Loyal Customers
+1297,126,2,391250.0,4,1,2,7,Loyal Customers
+1298,317,2,112250.0,2,1,1,4,At Risk
+1299,285,6,1080000.0,3,4,4,11,Champions
+1300,363,2,174250.0,1,1,1,3,At Risk
+1301,124,5,475800.0,4,3,3,10,Champions
+1302,369,3,89075.0,1,2,1,4,At Risk
+1303,269,9,2567170.0,3,4,4,11,Champions
+1304,257,5,526400.0,3,3,3,9,Loyal Customers
+1306,278,8,1104200.0,3,4,4,11,Champions
+1307,216,4,529950.0,4,3,3,10,Champions
+1308,306,5,331220.0,2,3,2,7,Loyal Customers
+1309,233,6,1760750.0,4,4,4,12,Champions
+1310,531,1,56000.0,1,1,1,3,At Risk
+1311,249,9,783810.0,4,4,3,11,Champions
+1312,480,3,294320.0,1,2,2,5,Potential Loyalists
+1313,238,4,824500.0,4,3,3,10,Champions
+1314,561,1,162000.0,1,1,1,3,At Risk
+1315,482,1,127500.0,1,1,1,3,At Risk
+1316,316,4,171420.0,2,3,1,6,Potential Loyalists
+1317,350,4,311780.0,2,3,2,7,Loyal Customers
+1318,346,3,925120.0,2,2,4,8,Loyal Customers
+1319,294,5,595000.0,2,3,3,8,Loyal Customers
+1320,465,2,409500.0,1,1,2,4,At Risk
+1321,351,7,732500.0,2,4,3,9,Loyal Customers
+1322,432,5,611710.0,1,3,3,7,Loyal Customers
+1323,557,1,2340.0,1,1,1,3,At Risk
+1324,95,6,1153450.0,4,4,4,12,Champions
+1325,344,6,528950.0,2,4,3,9,Loyal Customers
+1326,265,2,314000.0,3,1,2,6,Potential Loyalists
+1327,281,4,1205000.0,3,3,4,10,Champions
+1328,293,3,358315.0,2,2,2,6,Potential Loyalists
+1330,253,3,312800.0,3,2,2,7,Loyal Customers
+1331,268,2,446000.0,3,1,2,6,Potential Loyalists
+1332,310,3,762500.0,2,2,3,7,Loyal Customers
+1333,347,5,402200.0,2,3,2,7,Loyal Customers
+1334,334,4,307845.0,2,3,2,7,Loyal Customers
+1335,256,6,989250.0,3,4,4,11,Champions
+1336,263,6,1421000.0,3,4,4,11,Champions
+1337,294,4,791250.0,2,3,3,8,Loyal Customers
+1338,337,2,280000.0,2,1,2,5,Potential Loyalists
+1339,473,1,105000.0,1,1,1,3,At Risk
+1340,261,5,760500.0,3,3,3,9,Loyal Customers
+1341,263,4,1496790.0,3,3,4,10,Champions
+1342,247,6,1701750.0,4,4,4,12,Champions
+1343,346,6,718750.0,2,4,3,9,Loyal Customers
+1344,216,5,108450.0,4,3,1,8,Loyal Customers
+1345,386,4,360650.0,1,3,2,6,Potential Loyalists
+1346,262,4,237050.0,3,3,1,7,Loyal Customers
+1347,237,3,533000.0,4,2,3,9,Loyal Customers
+1348,318,4,129850.0,2,3,1,6,Potential Loyalists
+1349,290,6,731500.0,3,4,3,10,Champions
+1350,255,6,309650.0,3,4,2,9,Loyal Customers
+1351,435,3,536250.0,1,2,3,6,Potential Loyalists
+1352,215,7,985250.0,4,4,4,12,Champions
+1353,236,4,766900.0,4,3,3,10,Champions
+1354,262,9,1284500.0,3,4,4,11,Champions
+1355,282,4,551025.0,3,3,3,9,Loyal Customers
+1356,322,2,93000.0,2,1,1,4,At Risk
+1357,305,4,338345.0,2,3,2,7,Loyal Customers
+1358,449,1,252000.0,1,1,2,4,At Risk
+1359,267,3,396910.0,3,2,2,7,Loyal Customers
+1360,186,6,733150.0,4,4,3,11,Champions
+1361,395,3,400000.0,1,2,2,5,Potential Loyalists
+1362,409,1,180000.0,1,1,1,3,At Risk
+1363,234,11,2363000.0,4,4,4,12,Champions
+1364,253,1,260000.0,3,1,2,6,Potential Loyalists
+1365,387,5,427975.0,1,3,2,6,Potential Loyalists
+1366,384,5,171030.0,1,3,1,5,Potential Loyalists
+1367,241,6,833500.0,4,4,3,11,Champions
+1368,284,4,548550.0,3,3,3,9,Loyal Customers
+1369,276,2,46550.0,3,1,1,5,Potential Loyalists
+1370,273,2,224250.0,3,1,1,5,Potential Loyalists
+1371,375,3,418470.0,1,2,2,5,Potential Loyalists
+1372,413,3,404750.0,1,2,2,5,Potential Loyalists
+1373,281,5,362750.0,3,3,2,8,Loyal Customers
+1374,251,6,1369350.0,4,4,4,12,Champions
+1375,320,5,273035.0,2,3,2,7,Loyal Customers
+1376,443,5,532765.0,1,3,3,7,Loyal Customers
+1377,295,7,397670.0,2,4,2,8,Loyal Customers
+1378,311,6,1225600.0,2,4,4,10,Champions
+1379,64,8,1775000.0,4,4,4,12,Champions
+1380,276,3,432000.0,3,2,2,7,Loyal Customers
+1381,282,4,480350.0,3,3,3,9,Loyal Customers
+1382,490,3,264750.0,1,2,2,5,Potential Loyalists
+1383,308,3,1031550.0,2,2,4,8,Loyal Customers
+1384,235,6,466500.0,4,4,3,11,Champions
+1385,63,4,289500.0,4,3,2,9,Loyal Customers
+1386,440,3,333425.0,1,2,2,5,Potential Loyalists
+1387,441,2,864750.0,1,1,4,6,Potential Loyalists
+1388,239,4,1445780.0,4,3,4,11,Champions
+1389,285,2,457500.0,3,1,2,6,Potential Loyalists
+1390,698,1,712500.0,1,1,3,5,Potential Loyalists
+1391,242,4,143500.0,4,3,1,8,Loyal Customers
+1392,237,6,1201650.0,4,4,4,12,Champions
+1393,260,3,378000.0,3,2,2,7,Loyal Customers
+1394,257,3,715500.0,3,2,3,8,Loyal Customers
+1395,291,3,867845.0,2,2,4,8,Loyal Customers
+1396,291,6,702600.0,2,4,3,9,Loyal Customers
+1397,313,3,1351250.0,2,2,4,8,Loyal Customers
+1398,265,5,421125.0,3,3,2,8,Loyal Customers
+1399,272,4,725850.0,3,3,3,9,Loyal Customers
+1400,598,2,471500.0,1,1,3,5,Potential Loyalists
+1402,184,4,398600.0,4,3,2,9,Loyal Customers
+1403,368,4,356850.0,1,3,2,6,Potential Loyalists
+1404,546,3,263400.0,1,2,2,5,Potential Loyalists
+1405,321,3,861000.0,2,2,4,8,Loyal Customers
+1406,267,7,939250.0,3,4,4,11,Champions
+1407,344,6,1450160.0,2,4,4,10,Champions
+1408,31,2,206250.0,4,1,1,6,Potential Loyalists
+1409,157,3,214000.0,4,2,1,7,Loyal Customers
+1410,307,3,1233000.0,2,2,4,8,Loyal Customers
+1411,258,5,1434000.0,3,3,4,10,Champions
+1412,358,3,1514000.0,1,2,4,7,Loyal Customers
+1413,255,5,977000.0,3,3,4,10,Champions
+1414,65,3,847500.0,4,2,3,9,Loyal Customers
+1415,356,5,1305200.0,1,3,4,8,Loyal Customers
+1416,63,5,1121500.0,4,3,4,11,Champions
+1417,267,5,920400.0,3,3,4,10,Champions
+1418,492,1,2210.0,1,1,1,3,At Risk
+1419,252,6,1546500.0,3,4,4,11,Champions
+1420,333,4,421500.0,2,3,2,7,Loyal Customers
+1421,420,3,380000.0,1,2,2,5,Potential Loyalists
+1422,263,6,999000.0,3,4,4,11,Champions
+1423,338,2,59350.0,2,1,1,4,At Risk
+1424,256,8,1015040.0,3,4,4,11,Champions
+1425,234,2,230250.0,4,1,1,6,Potential Loyalists
+1426,336,5,377800.0,2,3,2,7,Loyal Customers
+1427,64,6,793720.0,4,4,3,11,Champions
+1428,245,8,639080.0,4,4,3,11,Champions
+1429,253,3,343500.0,3,2,2,7,Loyal Customers
+1430,281,4,319500.0,3,3,2,8,Loyal Customers
+1431,257,6,516800.0,3,4,3,10,Champions
+1432,399,2,66300.0,1,1,1,3,At Risk
+1433,289,6,827750.0,3,4,3,10,Champions
+1434,271,7,920750.0,3,4,4,11,Champions
+1435,286,5,496750.0,3,3,3,9,Loyal Customers
+1436,239,7,673450.0,4,4,3,11,Champions
+1437,294,1,81000.0,2,1,1,4,At Risk
+1438,273,4,1100500.0,3,3,4,10,Champions
+1439,350,3,114340.0,2,2,1,5,Potential Loyalists
+1440,255,3,375300.0,3,2,2,7,Loyal Customers
+1441,280,4,1022050.0,3,3,4,10,Champions
+1442,184,9,2505900.0,4,4,4,12,Champions
+1443,453,5,451750.0,1,3,2,6,Potential Loyalists
+1444,330,1,195000.0,2,1,1,4,At Risk
+1445,263,4,259700.0,3,3,2,8,Loyal Customers
+1446,400,3,194800.0,1,2,1,4,At Risk
+1447,234,3,243750.0,4,2,2,8,Loyal Customers
+1448,280,2,147315.0,3,1,1,5,Potential Loyalists
+1449,246,8,1413750.0,4,4,4,12,Champions
+1450,554,2,67080.0,1,1,1,3,At Risk
+1451,476,2,126000.0,1,1,1,3,At Risk
+1452,279,7,1079530.0,3,4,4,11,Champions
+1453,257,9,1219000.0,3,4,4,11,Champions
+1454,217,6,269700.0,4,4,2,10,Champions
+1455,291,6,1572750.0,2,4,4,10,Champions
+1456,286,2,189500.0,3,1,1,5,Potential Loyalists
+1457,63,6,636220.0,4,4,3,11,Champions
+1458,451,2,85500.0,1,1,1,3,At Risk
+1459,312,4,321710.0,2,3,2,7,Loyal Customers
+1460,285,7,666010.0,3,4,3,10,Champions
+1461,293,7,862150.0,2,4,4,10,Champions
+1462,253,3,250000.0,3,2,2,7,Loyal Customers
+1463,379,4,405070.0,1,3,2,6,Potential Loyalists
+1464,496,3,939200.0,1,2,4,7,Loyal Customers
+1465,289,4,524000.0,3,3,3,9,Loyal Customers
+1466,262,3,109875.0,3,2,1,6,Potential Loyalists
+1467,2,4,103050.0,4,3,1,8,Loyal Customers
+1468,296,4,192205.0,2,3,1,6,Potential Loyalists
+1469,94,5,602500.0,4,3,3,10,Champions
+1470,234,7,828000.0,4,4,3,11,Champions
+1471,233,3,454250.0,4,2,2,8,Loyal Customers
+1472,216,6,480640.0,4,4,3,11,Champions
+1473,353,5,584500.0,2,3,3,8,Loyal Customers
+1474,577,1,10500.0,1,1,1,3,At Risk
+1475,31,7,1591500.0,4,4,4,12,Champions
+1476,415,3,76350.0,1,2,1,4,At Risk
+1477,318,5,401900.0,2,3,2,7,Loyal Customers
+1478,272,4,756000.0,3,3,3,9,Loyal Customers
+1479,307,3,75225.0,2,2,1,5,Potential Loyalists
+1480,2,4,278500.0,4,3,2,9,Loyal Customers
+1481,299,3,792500.0,2,2,3,7,Loyal Customers
+1482,520,1,32500.0,1,1,1,3,At Risk
+1483,505,1,117000.0,1,1,1,3,At Risk
+1484,266,4,268000.0,3,3,2,8,Loyal Customers
+1485,218,4,196150.0,4,3,1,8,Loyal Customers
+1486,62,6,271950.0,4,4,2,10,Champions
+1487,282,7,872000.0,3,4,4,11,Champions
+1488,354,3,273470.0,2,2,2,6,Potential Loyalists
+1489,342,5,979100.0,2,3,4,9,Loyal Customers
+1490,370,1,5525.0,1,1,1,3,At Risk
+1491,62,5,535000.0,4,3,3,10,Champions
+1492,260,4,1030780.0,3,3,4,10,Champions
+1493,299,3,392000.0,2,2,2,6,Potential Loyalists
+1494,391,6,449200.0,1,4,2,7,Loyal Customers
+1495,2,8,1832500.0,4,4,4,12,Champions
+1496,393,3,282700.0,1,2,2,5,Potential Loyalists
+1497,404,3,1048000.0,1,2,4,7,Loyal Customers
+1498,329,6,520285.0,2,4,3,9,Loyal Customers
+1499,276,4,424000.0,3,3,2,8,Loyal Customers
+1500,369,3,415750.0,1,2,2,5,Potential Loyalists
+1501,271,2,86670.0,3,1,1,5,Potential Loyalists
+1502,242,3,142970.0,4,2,1,7,Loyal Customers
+1503,254,5,583940.0,3,3,3,9,Loyal Customers
+1504,249,7,707200.0,4,4,3,11,Champions
+1505,401,5,627620.0,1,3,3,7,Loyal Customers
+1506,357,3,481100.0,1,2,3,6,Potential Loyalists
+1507,318,3,935000.0,2,2,4,8,Loyal Customers
+1508,353,5,641000.0,2,3,3,8,Loyal Customers
+1509,316,3,557500.0,2,2,3,7,Loyal Customers
+1510,295,2,210800.0,2,1,1,4,At Risk
+1511,314,4,425590.0,2,3,2,7,Loyal Customers
+1512,305,7,847005.0,2,4,3,9,Loyal Customers
+1513,215,6,737690.0,4,4,3,11,Champions
+1514,319,4,1770500.0,2,3,4,9,Loyal Customers
+1515,301,6,745000.0,2,4,3,9,Loyal Customers
+1516,380,5,292550.0,1,3,2,6,Potential Loyalists
+1517,315,5,397705.0,2,3,2,7,Loyal Customers
+1518,234,7,734750.0,4,4,3,11,Champions
+1519,303,5,86160.0,2,3,1,6,Potential Loyalists
+1520,373,3,449620.0,1,2,2,5,Potential Loyalists
+1521,258,6,1050250.0,3,4,4,11,Champions
+1522,253,6,1156500.0,3,4,4,11,Champions
+1523,262,4,384750.0,3,3,2,8,Loyal Customers
+1524,305,4,1257000.0,2,3,4,9,Loyal Customers
+1525,454,2,247500.0,1,1,2,4,At Risk
+1526,391,4,54000.0,1,3,1,5,Potential Loyalists
+1527,468,2,6630.0,1,1,1,3,At Risk
+1528,428,2,157875.0,1,1,1,3,At Risk
+1529,351,5,853800.0,2,3,4,9,Loyal Customers
+1530,65,5,904705.0,4,3,4,11,Champions
+1531,185,2,703510.0,4,1,3,8,Loyal Customers
+1532,279,4,380800.0,3,3,2,8,Loyal Customers
+1533,296,5,343600.0,2,3,2,7,Loyal Customers
+1534,291,6,386580.0,2,4,2,8,Loyal Customers
+1535,253,3,701500.0,3,2,3,8,Loyal Customers
+1536,235,2,125000.0,4,1,1,6,Potential Loyalists
+1537,336,4,559490.0,2,3,3,8,Loyal Customers
+1538,366,3,312400.0,1,2,2,5,Potential Loyalists
+1539,235,2,93000.0,4,1,1,6,Potential Loyalists
+1540,251,7,1208750.0,4,4,4,12,Champions
+1541,290,3,497750.0,3,2,3,8,Loyal Customers
+1542,307,1,238000.0,2,1,1,4,At Risk
+1543,288,4,366450.0,3,3,2,8,Loyal Customers
+1544,261,6,844690.0,3,4,3,10,Champions
+1545,265,2,258000.0,3,1,2,6,Potential Loyalists
+1546,156,3,825000.0,4,2,3,9,Loyal Customers
+1547,124,1,63000.0,4,1,1,6,Potential Loyalists
+1548,282,9,1134700.0,3,4,4,11,Champions
+1549,303,3,153000.0,2,2,1,5,Potential Loyalists
+1550,380,3,380500.0,1,2,2,5,Potential Loyalists
+1551,353,7,1636000.0,2,4,4,10,Champions
+1552,261,3,60190.0,3,2,1,6,Potential Loyalists
+1553,331,3,130415.0,2,2,1,5,Potential Loyalists
+1554,273,5,426590.0,3,3,2,8,Loyal Customers
+1555,391,2,331250.0,1,1,2,4,At Risk
+1556,406,2,294750.0,1,1,2,4,At Risk
+1557,261,5,1046510.0,3,3,4,10,Champions
+1558,430,3,1096500.0,1,2,4,7,Loyal Customers
+1559,126,9,977250.0,4,4,4,12,Champions
+1560,349,2,466000.0,2,1,3,6,Potential Loyalists
+1561,3,7,1079050.0,4,4,4,12,Champions
+1562,345,3,198700.0,2,2,1,5,Potential Loyalists
+1563,290,5,882000.0,3,3,4,10,Champions
+1564,249,3,421920.0,4,2,2,8,Loyal Customers
+1565,358,6,1528500.0,1,4,4,9,Loyal Customers
+1566,317,3,95315.0,2,2,1,5,Potential Loyalists
+1567,287,2,391750.0,3,1,2,6,Potential Loyalists
+1568,321,4,518600.0,2,3,3,8,Loyal Customers
+1569,284,5,1222800.0,3,3,4,10,Champions
+1570,155,3,575000.0,4,2,3,9,Loyal Customers
+1571,235,3,1141000.0,4,2,4,10,Champions
+1572,516,3,234390.0,1,2,1,4,At Risk
+1573,264,3,43605.0,3,2,1,6,Potential Loyalists
+1574,445,5,159750.0,1,3,1,5,Potential Loyalists
+1575,319,5,571420.0,2,3,3,8,Loyal Customers
+1576,277,3,179200.0,3,2,1,6,Potential Loyalists
+1577,425,4,779500.0,1,3,3,7,Loyal Customers
+1578,275,7,745145.0,3,4,3,10,Champions
+1579,368,4,389600.0,1,3,2,6,Potential Loyalists
+1580,235,2,193000.0,4,1,1,6,Potential Loyalists
+1581,290,2,368500.0,3,1,2,6,Potential Loyalists
+1582,92,3,1484750.0,4,2,4,10,Champions
+1583,351,4,784400.0,2,3,3,8,Loyal Customers
+1584,253,4,331910.0,3,3,2,8,Loyal Customers
+1585,271,4,572985.0,3,3,3,9,Loyal Customers
+1586,157,3,820500.0,4,2,3,9,Loyal Customers
+1587,261,4,274500.0,3,3,2,8,Loyal Customers
+1588,251,1,22800.0,4,1,1,6,Potential Loyalists
+1589,92,6,201840.0,4,4,1,9,Loyal Customers
+1590,528,3,326000.0,1,2,2,5,Potential Loyalists
+1591,281,5,1494500.0,3,3,4,10,Champions
+1592,33,7,749650.0,4,4,3,11,Champions
+1593,297,1,114750.0,2,1,1,4,At Risk
+1594,285,6,595150.0,3,4,3,10,Champions
+1595,278,4,416250.0,3,3,2,8,Loyal Customers
+1596,236,7,473650.0,4,4,3,11,Champions
+1597,290,2,343000.0,3,1,2,6,Potential Loyalists
+1598,412,5,1411910.0,1,3,4,8,Loyal Customers
+1599,401,5,976715.0,1,3,4,8,Loyal Customers
+1600,260,5,1291000.0,3,3,4,10,Champions
+1601,431,4,846250.0,1,3,3,7,Loyal Customers
+1602,313,1,9750.0,2,1,1,4,At Risk
+1603,342,2,96400.0,2,1,1,4,At Risk
+1604,308,5,1371000.0,2,3,4,9,Loyal Customers
+1605,4,4,303450.0,4,3,2,9,Loyal Customers
+1606,258,4,717250.0,3,3,3,9,Loyal Customers
+1607,335,8,448550.0,2,4,2,8,Loyal Customers
+1608,302,3,352975.0,2,2,2,6,Potential Loyalists
+1609,521,2,171820.0,1,1,1,3,At Risk
+1610,362,4,1095250.0,1,3,4,8,Loyal Customers
+1611,367,5,401155.0,1,3,2,6,Potential Loyalists
+1612,589,1,24000.0,1,1,1,3,At Risk
+1613,414,5,439950.0,1,3,2,6,Potential Loyalists
+1614,453,1,937500.0,1,1,4,6,Potential Loyalists
+1615,281,6,883600.0,3,4,4,11,Champions
+1616,243,7,797470.0,4,4,3,11,Champions
+1617,237,5,1118500.0,4,3,4,11,Champions
+1618,365,5,540250.0,1,3,3,7,Loyal Customers
+1619,4,6,1983000.0,4,4,4,12,Champions
+1620,337,7,834210.0,2,4,3,9,Loyal Customers
+1621,317,4,1570235.0,2,3,4,9,Loyal Customers
+1623,32,3,558500.0,4,2,3,9,Loyal Customers
+1624,251,8,654620.0,4,4,3,11,Champions
+1626,93,6,956340.0,4,4,4,12,Champions
+1627,515,2,169750.0,1,1,1,3,At Risk
+1628,123,2,282000.0,4,1,2,7,Loyal Customers
+1629,383,3,259880.0,1,2,2,5,Potential Loyalists
+1630,374,6,592000.0,1,4,3,8,Loyal Customers
+1631,249,6,794325.0,4,4,3,11,Champions
+1632,318,4,965180.0,2,3,4,9,Loyal Customers
+1633,356,3,1040750.0,1,2,4,7,Loyal Customers
+1634,340,4,504250.0,2,3,3,8,Loyal Customers
+1635,254,4,452500.0,3,3,2,8,Loyal Customers
+1636,234,5,406500.0,4,3,2,9,Loyal Customers
+1637,390,4,54050.0,1,3,1,5,Potential Loyalists
+1638,299,2,195750.0,2,1,1,4,At Risk
+1639,315,4,401475.0,2,3,2,7,Loyal Customers
+1640,355,4,380500.0,1,3,2,6,Potential Loyalists
+1641,94,3,271310.0,4,2,2,8,Loyal Customers
+1642,307,2,30290.0,2,1,1,4,At Risk
+1643,277,6,1152500.0,3,4,4,11,Champions
+1644,258,6,1189050.0,3,4,4,11,Champions
+1645,355,4,733000.0,1,3,3,7,Loyal Customers
+1646,339,2,495250.0,2,1,3,6,Potential Loyalists
+1647,590,1,9750.0,1,1,1,3,At Risk
+1648,369,4,386100.0,1,3,2,6,Potential Loyalists
+1649,276,7,1100750.0,3,4,4,11,Champions
+1650,277,7,875775.0,3,4,4,11,Champions
+1651,358,4,467000.0,1,3,3,7,Loyal Customers
+1652,238,3,165300.0,4,2,1,7,Loyal Customers
+1653,282,4,259535.0,3,3,2,8,Loyal Customers
+1654,317,2,77210.0,2,1,1,4,At Risk
+1656,356,3,465250.0,1,2,3,6,Potential Loyalists
+1657,124,5,332750.0,4,3,2,9,Loyal Customers
+1658,246,5,169100.0,4,3,1,8,Loyal Customers
+1660,293,3,263250.0,2,2,2,6,Potential Loyalists
+1661,269,12,1947000.0,3,4,4,11,Champions
+1662,285,6,298825.0,3,4,2,9,Loyal Customers
+1663,266,4,400250.0,3,3,2,8,Loyal Customers
+1664,294,4,1016000.0,2,3,4,9,Loyal Customers
+1665,308,3,901500.0,2,2,4,8,Loyal Customers
+1666,285,6,535440.0,3,4,3,10,Champions
+1667,287,4,1559900.0,3,3,4,10,Champions
+1668,246,2,180300.0,4,1,1,6,Potential Loyalists
+1669,504,2,526000.0,1,1,3,5,Potential Loyalists
+1670,258,4,650000.0,3,3,3,9,Loyal Customers
+1671,279,4,174830.0,3,3,1,7,Loyal Customers
+1672,421,3,557300.0,1,2,3,6,Potential Loyalists
+1673,420,4,382000.0,1,3,2,6,Potential Loyalists
+1674,546,3,341040.0,1,2,2,5,Potential Loyalists
+1675,64,8,1652250.0,4,4,4,12,Champions
+1676,361,2,918000.0,1,1,4,6,Potential Loyalists
+1677,296,5,1588000.0,2,4,4,10,Champions
+1678,242,5,614680.0,4,4,3,11,Champions
+1679,338,5,490350.0,2,4,3,9,Loyal Customers
+1680,272,2,319500.0,3,1,2,6,Potential Loyalists
+1681,530,2,344250.0,1,1,2,4,At Risk
+1682,447,1,101250.0,1,1,1,3,At Risk
+1683,258,8,1515250.0,3,4,4,11,Champions
+1684,282,3,313350.0,3,2,2,7,Loyal Customers
+1685,308,3,708250.0,2,2,3,7,Loyal Customers
+1686,349,5,1073700.0,2,4,4,10,Champions
+1687,330,4,363700.0,2,3,2,7,Loyal Customers
+1688,438,2,191250.0,1,1,1,3,At Risk
+1689,262,4,579760.0,3,3,3,9,Loyal Customers
+1690,313,2,381500.0,2,1,2,5,Potential Loyalists
+1691,239,4,790500.0,4,3,3,10,Champions
+1692,3,2,64500.0,4,1,1,6,Potential Loyalists
+1693,62,4,1101355.0,4,3,4,11,Champions
+1694,357,2,69000.0,1,1,1,3,At Risk
+1695,482,1,108000.0,1,1,1,3,At Risk
+1696,241,4,135350.0,4,3,1,8,Loyal Customers
+1697,233,4,600500.0,4,3,3,10,Champions
+1698,579,1,6400.0,1,1,1,3,At Risk
+1699,403,3,496500.0,1,2,3,6,Potential Loyalists
+1700,245,3,213750.0,4,2,1,7,Loyal Customers
+1701,315,1,256000.0,2,1,2,5,Potential Loyalists
+1702,269,4,321840.0,3,3,2,8,Loyal Customers
+1703,306,6,1016750.0,2,4,4,10,Champions
+1704,557,3,339250.0,1,2,2,5,Potential Loyalists
+1705,268,4,1311500.0,3,3,4,10,Champions
+1706,295,5,972250.0,2,4,4,10,Champions
+1707,186,3,387750.0,4,2,2,8,Loyal Customers
+1708,253,8,845650.0,3,4,3,10,Champions
+1709,263,4,123340.0,3,3,1,7,Loyal Customers
+1710,309,9,1080750.0,2,4,4,10,Champions
+1711,2,8,927800.0,4,4,4,12,Champions
+1712,242,5,567750.0,4,4,3,11,Champions
+1713,360,3,1023690.0,1,2,4,7,Loyal Customers
+1714,321,5,352410.0,2,4,2,8,Loyal Customers
+1715,342,4,319450.0,2,3,2,7,Loyal Customers
+1716,258,2,110500.0,3,1,1,5,Potential Loyalists
+1717,356,3,356750.0,1,2,2,5,Potential Loyalists
+1718,479,2,800000.0,1,1,3,5,Potential Loyalists
+1719,373,6,751845.0,1,4,3,8,Loyal Customers
+1720,157,4,2129000.0,4,3,4,11,Champions
+1721,65,1,12800.0,4,1,1,6,Potential Loyalists
+1722,284,3,166000.0,3,2,1,6,Potential Loyalists
+1723,242,5,489840.0,4,4,3,11,Champions
+1724,314,6,1229900.0,2,4,4,10,Champions
+1725,529,2,135750.0,1,1,1,3,At Risk
+1726,278,3,185340.0,3,2,1,6,Potential Loyalists
+1727,294,5,572810.0,2,4,3,9,Loyal Customers
+1728,291,5,682905.0,2,4,3,9,Loyal Customers
+1729,415,3,1176500.0,1,2,4,7,Loyal Customers
+1730,493,2,166000.0,1,1,1,3,At Risk
+1731,434,4,652300.0,1,3,3,7,Loyal Customers
+1732,370,5,416560.0,1,4,2,7,Loyal Customers
+1733,421,1,97500.0,1,1,1,3,At Risk
+1734,263,3,310000.0,3,2,2,7,Loyal Customers
+1735,319,2,312000.0,2,1,2,5,Potential Loyalists
+1736,233,4,147450.0,4,3,1,8,Loyal Customers
+1737,239,5,1085600.0,4,4,4,12,Champions
+1738,273,3,166925.0,3,2,1,6,Potential Loyalists
+1739,351,3,382500.0,2,2,2,6,Potential Loyalists
+1740,249,8,964920.0,4,4,4,12,Champions
+1741,236,6,570025.0,4,4,3,11,Champions
+1742,93,3,416500.0,4,2,2,8,Loyal Customers
+1743,250,5,515700.0,4,4,3,11,Champions
+1744,236,3,216050.0,4,2,1,7,Loyal Customers
+1745,336,3,187510.0,2,2,1,5,Potential Loyalists
+1746,448,4,231750.0,1,3,1,5,Potential Loyalists
+1747,409,3,34390.0,1,2,1,4,At Risk
+1748,423,4,282950.0,1,3,2,6,Potential Loyalists
+1749,517,1,4420.0,1,1,1,3,At Risk
+1750,63,3,249750.0,4,2,2,8,Loyal Customers
+1751,286,5,2125500.0,3,4,4,11,Champions
+1752,256,4,410370.0,3,3,2,8,Loyal Customers
+1753,449,2,1005600.0,1,1,4,6,Potential Loyalists
+1755,571,1,146250.0,1,1,1,3,At Risk
+1756,279,2,29525.0,3,1,1,5,Potential Loyalists
+1757,384,3,228750.0,1,2,1,4,At Risk
+1758,308,2,279500.0,2,1,2,5,Potential Loyalists
+1759,155,5,457225.0,4,4,2,10,Champions
+1760,285,3,273250.0,3,2,2,7,Loyal Customers
+1761,369,3,186355.0,1,2,1,4,At Risk
+1762,505,1,2925.0,1,1,1,3,At Risk
+1763,4,6,780600.0,4,4,3,11,Champions
+1764,126,6,701340.0,4,4,3,11,Champions
+1765,384,4,214980.0,1,3,1,5,Potential Loyalists
+1766,560,2,222000.0,1,1,1,3,At Risk
+1767,455,3,340500.0,1,2,2,5,Potential Loyalists
+1768,415,1,182000.0,1,1,1,3,At Risk
+1769,288,3,1190580.0,3,2,4,9,Loyal Customers
+1770,317,4,1261000.0,2,3,4,9,Loyal Customers
+1771,534,1,97500.0,1,1,1,3,At Risk
+1772,320,4,126110.0,2,3,1,6,Potential Loyalists
+1773,405,4,1202500.0,1,3,4,8,Loyal Customers
+1774,266,5,1008785.0,3,4,4,11,Champions
+1775,250,5,562600.0,4,4,3,11,Champions
+1776,265,4,424550.0,3,3,2,8,Loyal Customers
+1777,409,2,126000.0,1,1,1,3,At Risk
+1778,331,5,878250.0,2,4,4,10,Champions
+1779,235,5,1151400.0,4,4,4,12,Champions
+1780,92,5,824250.0,4,4,3,11,Champions
+1781,300,5,1845000.0,2,4,4,10,Champions
+1782,512,2,96000.0,1,1,1,3,At Risk
+1783,318,3,344875.0,2,2,2,6,Potential Loyalists
+1784,237,4,758010.0,4,3,3,10,Champions
+1785,314,4,542000.0,2,3,3,8,Loyal Customers
+1786,310,4,129520.0,2,3,1,6,Potential Loyalists
+1787,560,2,156000.0,1,1,1,3,At Risk
+1788,302,2,82040.0,2,1,1,4,At Risk
+1789,246,1,425000.0,4,1,2,7,Loyal Customers
+1790,256,4,235450.0,3,3,1,7,Loyal Customers
+1791,124,5,1210400.0,4,4,4,12,Champions
+1793,267,2,34230.0,3,1,1,5,Potential Loyalists
+1794,287,5,547250.0,3,4,3,10,Champions
+1795,248,4,147675.0,4,3,1,8,Loyal Customers
+1796,463,1,800000.0,1,1,3,5,Potential Loyalists
+1797,398,3,485670.0,1,2,3,6,Potential Loyalists
+1798,372,1,58500.0,1,1,1,3,At Risk
+1799,31,4,426500.0,4,3,2,9,Loyal Customers
+1800,551,2,53210.0,1,1,1,3,At Risk
+1801,218,4,922250.0,4,3,4,11,Champions
+1802,359,5,431800.0,1,4,2,7,Loyal Customers
+1803,315,5,165975.0,2,4,1,7,Loyal Customers
+1804,287,3,447700.0,3,2,2,7,Loyal Customers
+1805,286,4,342940.0,3,3,2,8,Loyal Customers
+1806,264,6,1020910.0,3,4,4,11,Champions
+1807,185,3,310800.0,4,2,2,8,Loyal Customers
+1808,243,2,215200.0,4,1,1,6,Potential Loyalists
+1809,253,6,888700.0,3,4,4,11,Champions
+1810,445,2,135000.0,1,1,1,3,At Risk
+1811,233,5,1862235.0,4,4,4,12,Champions
+1812,314,7,1718500.0,2,4,4,10,Champions
+1813,382,2,318500.0,1,1,2,4,At Risk
+1814,272,3,393000.0,3,2,2,7,Loyal Customers
+1815,378,3,935750.0,1,2,4,7,Loyal Customers
+1816,279,7,1259245.0,3,4,4,11,Champions
+1817,262,3,1210400.0,3,2,4,9,Loyal Customers
+1818,267,7,1252990.0,3,4,4,11,Champions
+1819,258,4,150950.0,3,3,1,7,Loyal Customers
+1820,313,4,273975.0,2,3,2,7,Loyal Customers
+1821,238,4,277500.0,4,3,2,9,Loyal Customers
+1822,353,3,556550.0,2,2,3,7,Loyal Customers
+1823,260,4,1220400.0,3,3,4,10,Champions
+1824,249,6,443010.0,4,4,2,10,Champions
+1825,257,6,764500.0,3,4,3,10,Champions
+1826,316,4,507800.0,2,3,3,8,Loyal Customers
+1827,340,7,1119750.0,2,4,4,10,Champions
+1828,267,6,1106850.0,3,4,4,11,Champions
+1829,31,5,1196500.0,4,4,4,12,Champions
+1830,483,3,324900.0,1,2,2,5,Potential Loyalists
+1831,282,6,726100.0,3,4,3,10,Champions
+1832,251,4,193675.0,4,3,1,8,Loyal Customers
+1833,295,3,303750.0,2,2,2,6,Potential Loyalists
+1834,234,7,937700.0,4,4,4,12,Champions
+1835,254,1,224000.0,3,1,1,5,Potential Loyalists
+1836,280,5,601590.0,3,4,3,10,Champions
+1837,322,6,1604200.0,2,4,4,10,Champions
+1838,319,6,828900.0,2,4,3,9,Loyal Customers
+1839,322,3,208200.0,2,2,1,5,Potential Loyalists
+1840,243,4,294250.0,4,3,2,9,Loyal Customers
+1841,516,1,240000.0,1,1,2,4,At Risk
+1842,248,3,490250.0,4,2,3,9,Loyal Customers
+1843,31,3,608410.0,4,2,3,9,Loyal Customers
+1844,268,4,312485.0,3,3,2,8,Loyal Customers
+1845,335,5,542000.0,2,4,3,9,Loyal Customers
+1846,251,6,706200.0,4,4,3,11,Champions
+1847,304,1,52000.0,2,1,1,4,At Risk
+1848,323,5,320000.0,2,4,2,8,Loyal Customers
+1849,337,2,947500.0,2,1,4,7,Loyal Customers
+1850,315,4,265050.0,2,3,2,7,Loyal Customers
+1851,372,2,458750.0,1,1,3,5,Potential Loyalists
+1852,218,6,1830955.0,4,4,4,12,Champions
+1853,272,7,724235.0,3,4,3,10,Champions
+1854,407,3,708250.0,1,2,3,6,Potential Loyalists
+1855,388,1,650000.0,1,1,3,5,Potential Loyalists
+1856,294,5,637100.0,2,4,3,9,Loyal Customers
+1857,322,5,777700.0,2,4,3,9,Loyal Customers
+1858,438,5,343575.0,1,4,2,7,Loyal Customers
+1859,407,3,308750.0,1,2,2,5,Potential Loyalists
+1860,397,4,589500.0,1,3,3,7,Loyal Customers
+1861,342,4,168715.0,2,3,1,6,Potential Loyalists
+1862,265,3,498100.0,3,2,3,8,Loyal Customers
+1863,249,5,704750.0,4,4,3,11,Champions
+1864,482,2,387000.0,1,1,2,4,At Risk
+1865,256,6,732500.0,3,4,3,10,Champions
+1866,271,5,205875.0,3,4,1,8,Loyal Customers
+1867,305,3,262035.0,2,2,2,6,Potential Loyalists
+1868,247,4,1101000.0,4,3,4,11,Champions
+1869,217,5,601000.0,4,4,3,11,Champions
+1870,348,3,229500.0,2,2,1,5,Potential Loyalists
+1871,427,1,54000.0,1,1,1,3,At Risk
+1872,123,7,789000.0,4,4,3,11,Champions
+1873,236,5,1393750.0,4,4,4,12,Champions
+1874,262,3,291000.0,3,2,2,7,Loyal Customers
+1875,218,5,1813730.0,4,4,4,12,Champions
+1876,336,3,101770.0,2,2,1,5,Potential Loyalists
+1877,63,4,592670.0,4,3,3,10,Champions
+1879,65,8,2009250.0,4,4,4,12,Champions
+1880,439,3,510000.0,1,2,3,6,Potential Loyalists
+1881,247,7,1252890.0,4,4,4,12,Champions
+1882,331,1,61750.0,2,1,1,4,At Risk
+1883,305,4,1609000.0,2,3,4,9,Loyal Customers
+1884,244,5,285205.0,4,4,2,10,Champions
+1885,33,5,1193250.0,4,4,4,12,Champions
+1886,380,1,105000.0,1,1,1,3,At Risk
+1887,233,4,580000.0,4,3,3,10,Champions
+1888,354,4,379200.0,2,3,2,7,Loyal Customers
+1889,305,2,222750.0,2,1,1,4,At Risk
+1890,344,5,684250.0,2,4,3,9,Loyal Customers
+1891,301,3,286500.0,2,2,2,6,Potential Loyalists
+1893,239,10,2762255.0,4,4,4,12,Champions
+1894,238,4,868500.0,4,3,4,11,Champions
+1895,215,6,585750.0,4,4,3,11,Champions
+1896,277,8,523900.0,3,4,3,10,Champions
+1897,342,4,383500.0,2,3,2,7,Loyal Customers
+1898,270,7,1975500.0,3,4,4,11,Champions
+1899,312,5,338855.0,2,4,2,8,Loyal Customers
+1900,316,4,254250.0,2,3,2,7,Loyal Customers
+1901,281,7,931950.0,3,4,4,11,Champions
+1902,234,4,370850.0,4,3,2,9,Loyal Customers
+1903,4,3,1356000.0,4,2,4,10,Champions
+1904,358,3,360000.0,1,2,2,5,Potential Loyalists
+1905,184,2,333000.0,4,1,2,7,Loyal Customers
+1907,283,4,989500.0,3,3,4,10,Champions
+1908,431,5,1733160.0,1,4,4,9,Loyal Customers
+1909,285,2,165500.0,3,1,1,5,Potential Loyalists
+1910,274,5,488205.0,3,4,3,10,Champions
+1911,252,6,155910.0,3,4,1,8,Loyal Customers
+1912,294,3,150975.0,2,2,1,5,Potential Loyalists
+1913,382,2,282750.0,1,1,2,4,At Risk
+1914,244,8,1732650.0,4,4,4,12,Champions
+1915,479,4,531500.0,1,3,3,7,Loyal Customers
+1916,348,7,1550000.0,2,4,4,10,Champions
+1917,357,7,1037850.0,1,4,4,9,Loyal Customers
+1918,416,2,115200.0,1,1,1,3,At Risk
+1919,392,2,307200.0,1,1,2,4,At Risk
+1920,316,3,378750.0,2,2,2,6,Potential Loyalists
+1921,254,4,388350.0,3,3,2,8,Loyal Customers
+1922,346,6,1354900.0,2,4,4,10,Champions
+1923,346,1,228000.0,2,1,1,4,At Risk
+1924,297,6,865500.0,2,4,4,10,Champions
+1925,485,2,245250.0,1,1,2,4,At Risk
+1926,284,3,268000.0,3,2,2,7,Loyal Customers
+1927,558,1,168000.0,1,1,1,3,At Risk
+1928,315,4,621500.0,2,3,3,8,Loyal Customers
+1929,276,4,1072655.0,3,3,4,10,Champions
+1930,244,7,935000.0,4,4,4,12,Champions
+1931,331,5,1070105.0,2,4,4,10,Champions
+1932,234,6,571950.0,4,4,3,11,Champions
+1933,320,4,1186000.0,2,3,4,9,Loyal Customers
+1934,292,3,439300.0,2,2,2,6,Potential Loyalists
+1936,392,3,253350.0,1,2,2,5,Potential Loyalists
+1937,336,2,29380.0,2,1,1,4,At Risk
+1939,587,1,72000.0,1,1,1,3,At Risk
+1940,262,3,220500.0,3,2,1,6,Potential Loyalists
+1941,124,4,835000.0,4,3,3,10,Champions
+1942,378,5,346550.0,1,4,2,7,Loyal Customers
+1943,313,6,643000.0,2,4,3,9,Loyal Customers
+1944,238,3,326250.0,4,2,2,8,Loyal Customers
+1945,245,6,564000.0,4,4,3,11,Champions
+1946,291,2,263750.0,2,1,2,5,Potential Loyalists
+1947,392,2,1195500.0,1,1,4,6,Potential Loyalists
+1948,32,4,238500.0,4,3,1,8,Loyal Customers
+1949,247,2,360000.0,4,1,2,7,Loyal Customers
+1950,187,3,367250.0,4,2,2,8,Loyal Customers
+1951,387,5,1524500.0,1,4,4,9,Loyal Customers
+1952,260,5,739600.0,3,4,3,10,Champions
+1953,368,2,156400.0,1,1,1,3,At Risk
+1954,336,3,178600.0,2,2,1,5,Potential Loyalists
+1955,326,3,299400.0,2,2,2,6,Potential Loyalists
+1956,316,8,2153200.0,2,4,4,10,Champions
+1957,257,5,454550.0,3,4,2,9,Loyal Customers
+1958,391,1,3120.0,1,1,1,3,At Risk
+1959,326,2,253500.0,2,1,2,5,Potential Loyalists
+1960,315,3,1076250.0,2,2,4,8,Loyal Customers
+1961,258,3,406250.0,3,2,2,7,Loyal Customers
+1962,355,3,1124250.0,1,2,4,7,Loyal Customers
+1963,408,4,486525.0,1,3,3,7,Loyal Customers
+1964,272,5,254405.0,3,4,2,9,Loyal Customers
+1965,267,7,2631500.0,3,4,4,11,Champions
+1966,510,2,269000.0,1,1,2,4,At Risk
+1967,246,5,188950.0,4,4,1,9,Loyal Customers
+1968,184,5,860000.0,4,4,4,12,Champions
+1969,465,2,1225000.0,1,1,4,6,Potential Loyalists
+1970,373,2,112500.0,1,1,1,3,At Risk
+1971,374,3,1508500.0,1,2,4,7,Loyal Customers
+1972,542,1,136000.0,1,1,1,3,At Risk
+1973,313,2,384000.0,2,1,2,5,Potential Loyalists
+1974,349,6,659650.0,2,4,3,9,Loyal Customers
+1975,266,4,444250.0,3,3,2,8,Loyal Customers
+1976,259,4,1406000.0,3,3,4,10,Champions
+1977,355,7,1594660.0,1,4,4,9,Loyal Customers
+1978,294,6,681000.0,2,4,3,9,Loyal Customers
+1979,273,4,1430300.0,3,3,4,10,Champions
+1980,320,2,156640.0,2,1,1,4,At Risk
+1981,291,9,1133150.0,2,4,4,10,Champions
+1982,408,3,122450.0,1,2,1,4,At Risk
+1983,286,5,1020780.0,3,4,4,11,Champions
+1984,266,4,139825.0,3,3,1,7,Loyal Customers
+1985,309,7,1437150.0,2,4,4,10,Champions
+1986,344,3,544000.0,2,2,3,7,Loyal Customers
+1987,319,2,109200.0,2,1,1,4,At Risk
+1988,310,6,195785.0,2,4,1,7,Loyal Customers
+1989,253,5,316800.0,3,4,2,9,Loyal Customers
+1990,284,3,385250.0,3,2,2,7,Loyal Customers
+1991,4,3,171775.0,4,2,1,7,Loyal Customers
+1992,269,5,1338000.0,3,4,4,11,Champions
+1993,255,4,161200.0,3,3,1,7,Loyal Customers
+1994,282,5,625500.0,3,4,3,10,Champions
+1995,310,2,217500.0,2,1,1,4,At Risk
+1996,276,4,174550.0,3,3,1,7,Loyal Customers
+1997,249,3,626735.0,4,2,3,9,Loyal Customers
+1998,347,1,63000.0,2,1,1,4,At Risk
+1999,443,1,45000.0,1,1,1,3,At Risk
+2000,252,3,148250.0,3,2,1,6,Potential Loyalists

@@ -1,0 +1,7 @@
+pandas
+openpyxl
+numpy
+matplotlib
+seaborn
+azure-storage-blob
+python-dotenv
