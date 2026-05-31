@@ -25,11 +25,15 @@ data-driven decisions.
 ---
 
 ## Project Structure
+```
 neostats-retail-pipeline/
+│
 ├── notebooks/
 │   └── retail_pipeline.ipynb (Main Jupyter Notebook (full pipeline))
+│
 ├── scripts/
 │   └── retail_pipeline.py (Python script converted from notebook)
+│
 ├── data/
 │   ├── raw/
 │   │   └── USECASE_-_Data_Engineering.xlsx
@@ -40,13 +44,18 @@ neostats-retail-pipeline/
 │       ├── kpi_top_products.csv
 │       ├── rfm_segments.csv
 │       └── kpi_mom_growth.csv
+│
 ├── powerbi/
 │   ├── retail_dashboard.pbix
 │   └── dashboard_screenshot.png
+│
 ├── docs/
 │   └── documentation.docx
+│
+├── .gitignore
 ├── requirements.txt
 └── README.md
+```
 
 ---
 
