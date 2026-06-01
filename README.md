@@ -1,4 +1,4 @@
-# Retail Sales Data Processing and Business Insights Generation
+# Retail Sales Data Processing
 **NeoStats Data Engineering Assignment — ABC Retail Solutions**
 
 ---
@@ -18,9 +18,7 @@ Power BI dashboard.The project focuses on building a clean, reliable analytics d
 
 The raw datasets contained several data quality issues including duplicate 
 transactions, missing prices, inconsistent category names, invalid quantities, 
-mixed date formats, and unmasked customer PII. Without fixing these, the 
-business could not generate accurate revenue reports or make reliable 
-data-driven decisions.
+mixed date formats, and unmasked customer PII. If these problems were not fixed, the revenue numbers and reports generated from the data would be incorrect and unreliable. To make sure the business insights are accurate and meaningful, the data first needed to be cleaned, corrected, and prepared using a proper data processing pipeline.
 
 ---
 
@@ -94,7 +92,7 @@ Copy `USECASE_-_Data_Engineering.xlsx` into the `data/raw/` folder
 ```bash
 jupyter notebook
 ```
-Open `notebooks/retail_pipeline.ipynb` and run all cells top to bottom
+Open `notebooks/retail_pipeline.ipynb` and run all cells from top to bottom
 
 **Step 5** — Open the dashboard
 Open `powerbi/retail_dashboard.pbix` in Power BI Desktop
@@ -104,7 +102,7 @@ Open `powerbi/retail_dashboard.pbix` in Power BI Desktop
 ## Pipeline Steps
 The pipeline follows a clear, ordered flow to ensure data correctness at each stage.
 
-1. **Data Ingestion** — Read all 3 sheets from Excel into Python DataFrames
+1. **Data Ingestion** — Read all 3 datasets from Excel into Python DataFrames
 2. **Data Merging** — Combine retail_data1 and retail_data2 into one dataset
 3. **Remove Failed Payments** — Keep only successful transactions
 4. **Deduplication** — Remove exact duplicate rows
